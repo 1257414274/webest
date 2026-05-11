@@ -1,0 +1,654 @@
+﻿as_org,asset_tag,banner,base_protocol,body,cert_sha256,city,company,component,country,domain,header,header_server,icp_exception,ip,ip_tag,is_risk_protocol,is_web,isp,number,os,port,protocol,province,ssl_certificate,status_code,updated_at,url,vul_list,web_title,whois
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 302 Moved Temporarily
+Server: stgw
+Date: Thu, 07 May 2026 17:57:21 GMT
+Content-Type: text/html
+Content-Length: 137
+Connection: keep-alive
+Location: HTTPS://81.69.167.31/
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
+",tcp,"<head><style data-rc-order=""prependQueue"" data-rc-priority=""-999"" data-css-hash=""1nik7cv"" data-token-hash=""8a1xef"">:where(.css-98ntnt) a{color:#1677ff;text-decoration:none;background-color:transparent;outline:none;cursor:pointer;transition:color 0.3s;-webkit-text-decoration-skip:objects;}:where(.css-98ntnt) a:hover{color:#69b1ff;}:where(.css-98ntnt) a:active{color:#0958d9;}:where(.css-98ntnt) a:active,:where(.css-98ntnt) a:hover{text-decoration:none;outline:0;}:where(.css-98ntnt) a:focus{text-decoration:none;outline:0;}:where(.css-98ntnt) a[disabled]{color:rgba(0, 0, 0, 0.25);cursor:not-allowed;}</style><style data-rc-order=""prependQueue"" data-rc-priority=""-999"" data-css-hash=""1q30qww"" data-token-hash=""8a1xef"">:where(.css-98ntnt).ant-spin{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';font-size:14px;box-sizing:border-box;}:where(.css-98ntnt).ant-spin::before,:where(.css-98ntnt).ant-spin::after{box-sizing:border-box;}:where(.css-98ntnt).ant-spin [class^=""ant-spin""],:where(.css-98ntnt).ant-spin [class*="" ant-spin""]{box-sizing:border-box;}:where(.css-98ntnt).ant-spin [class^=""ant-spin""]::before,:where(.css-98ntnt).ant-spin [class*="" ant-spin""]::before,:where(.css-98ntnt).ant-spin [class^=""ant-spin""]::after,:where(.css-98ntnt).ant-spin [class*="" ant-spin""]::after{box-sizing:border-box;}:where(.css-98ntnt).ant-spin{box-sizing:border-box;margin:0;padding:0;color:#1677ff;font-size:0;line-height:1.5714285714285714;list-style:none;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';position:absolute;display:none;text-align:center;vertical-align:middle;opacity:0;transition:transform 0.3s cubic-bezier(0.78, 0.14, 0.15, 0.86);}:where(.css-98ntnt).ant-spin-spinning{position:relative;display:inline-block;opacity:1;}:where(.css-98ntnt).ant-spin .ant-spin-text{font-size:14px;padding-top:5px;}:where(.css-98ntnt).ant-spin-fullscreen{position:fixed;width:100vw;height:100vh;background-color:rgba(0, 0, 0, 0.45);z-index:1000;inset:0;display:flex;align-items:center;flex-direction:column;justify-content:center;opacity:0;visibility:hidden;transition:all 0.2s;}:where(.css-98ntnt).ant-spin-fullscreen-show{opacity:1;visibility:visible;}:where(.css-98ntnt).ant-spin-fullscreen .ant-spin .ant-spin-dot-holder{color:#fff;}:where(.css-98ntnt).ant-spin-fullscreen .ant-spin .ant-spin-text{color:#fff;}:where(.css-98ntnt).ant-spin-nested-loading{position:relative;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin{position:absolute;top:0;inset-inline-start:0;z-index:4;display:block;width:100%;height:100%;max-height:400px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin .ant-spin-dot{position:absolute;top:50%;inset-inline-start:50%;margin:-10px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin .ant-spin-text{position:absolute;top:50%;width:100%;text-shadow:0 1px 2px #ffffff;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin.ant-spin-show-text .ant-spin-dot{margin-top:-20px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin-sm .ant-spin-dot{margin:-7px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin-sm .ant-spin-text{padding-top:2px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin-sm.ant-spin-show-text .ant-spin-dot{margin-top:-17px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin-lg .ant-spin-dot{margin:-16px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin-lg .ant-spin-text{padding-top:11px;}:where(.css-98ntnt).ant-spin-nested-loading >div>.ant-spin-lg.ant-spin-show-text .ant-spin-dot{margin-top:-26px;}:where(.css-98ntnt).ant-spin-nested-loading .ant-spin-container{position:relative;transition:opacity 0.3s;}:where(.css-98ntnt).ant-spin-nested-loading .ant-spin-container::after{position:absolute;top:0;inset-inline-end:0;bottom:0;inset-inline-start:0;z-index:10;width:100%;height:100%;background:#ffffff;opacity:0;transition:all 0.3s;content:"""";pointer-events:none;}:where(.css-98ntnt).ant-spin-nested-loading .ant-spin-blur{clear:both;opacity:0.5;user-select:none;pointer-events:none;}:where(.css-98ntnt).ant-spin-nested-loading .ant-spin-blur::after{opacity:0.4;pointer-events:auto;}:where(.css-98ntnt).ant-spin-tip{color:rgba(0, 0, 0, 0.45);}:where(.css-98ntnt).ant-spin .ant-spin-dot-progress{position:absolute;top:0;inset-inline-start:0;}:where(.css-98ntnt).ant-spin .ant-spin-dot-holder{width:1em;height:1em;font-size:20px;display:inline-block;transition:transform 0.3s ease,opacity 0.3s ease;transform-origin:50% 50%;line-height:1;color:#1677ff;}:where(.css-98ntnt).ant-spin .ant-spin-dot-holder-hidden{transform:scale(0.3);opacity:0;}:where(.css-98ntnt).ant-spin .ant-spin-dot{position:relative;display:inline-block;font-size:20px;width:1em;height:1em;}:where(.css-98ntnt).ant-spin .ant-spin-dot-item{position:absolute;display:block;width:9px;height:9px;background:currentColor;border-radius:100%;transform:scale(0.75);transform-origin:50% 50%;opacity:0.3;animation-name:css-98ntnt-antSpinMove;animation-duration:1s;animation-iteration-count:infinite;animation-timing-function:linear;animation-direction:alternate;}:where(.css-98ntnt).ant-spin .ant-spin-dot-item:nth-child(1){top:0;inset-inline-start:0;animation-delay:0s;}:where(.css-98ntnt).ant-spin .ant-spin-dot-item:nth-child(2){top:0;inset-inline-end:0;animation-delay:0.4s;}:where(.css-98ntnt).ant-spin .ant-spin-dot-item:nth-child(3){inset-inline-end:0;bottom:0;animation-delay:0.8s;}:where(.css-98ntnt).ant-spin .ant-spin-dot-item:nth-child(4){bottom:0;inset-inline-start:0;animation-delay:1.2s;}:where(.css-98ntnt).ant-spin .ant-spin-dot-spin{transform:rotate(45deg);animation-name:css-98ntnt-antRotate;animation-duration:1.2s;animation-iteration-count:infinite;animation-timing-function:linear;}:where(.css-98ntnt).ant-spin .ant-spin-dot-circle{stroke-linecap:round;transition:stroke-dashoffset 0.3s ease,stroke-dasharray 0.3s ease,stroke 0.3s ease,stroke-width 0.3s ease,opacity 0.3s ease;fill-opacity:0;stroke:currentcolor;}:where(.css-98ntnt).ant-spin .ant-spin-dot-circle-bg{stroke:rgba(0, 0, 0, 0.06);}:where(.css-98ntnt).ant-spin-sm .ant-spin-dot{font-size:14px;}:where(.css-98ntnt).ant-spin-sm .ant-spin-dot-holder i{width:6px;height:6px;}:where(.css-98ntnt).ant-spin-lg .ant-spin-dot{font-size:32px;}:where(.css-98ntnt).ant-spin-lg .ant-spin-dot-holder i{width:14px;height:14px;}:where(.css-98ntnt).ant-spin.ant-spin-show-text .ant-spin-text{display:block;}</style><style data-rc-order=""prependQueue"" data-rc-priority=""-999"" data-css-hash=""_effect-css-98ntnt-antSpinMove"">@keyframes css-98ntnt-antSpinMove{to{opacity:1;}}</style><style data-rc-order=""prependQueue"" data-rc-priority=""-999"" data-css-hash=""_effect-css-98ntnt-antRotate"">@keyframes css-98ntnt-antRotate{to{transform:rotate(405deg);}}</style><style data-rc-order=""prependQueue"" data-rc-priority=""-999"" data-css-hash=""12qb383"" data-token-hash=""8a1xef"">:where(.css-98ntnt).ant-typography{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';font-size:14px;box-sizing:border-box;}:where(.css-98ntnt).ant-typography::before,:where(.css-98ntnt).ant-typography::after{box-sizing:border-box;}:where(.css-98ntnt).ant-typography [class^=""ant-typography""],:where(.css-98ntnt).ant-typography [class*="" ant-typography""]{box-sizing:border-box;}:where(.css-98ntnt).ant-typography [class^=""ant-typography""]::before,:where(.css-98ntnt).ant-typography [class*="" ant-typography""]::before,:where(.css-98ntnt).ant-typography [class^=""ant-typography""]::after,:where(.css-98ntnt).ant-typography [class*="" ant-typography""]::after{box-sizing:border-box;}:where(.css-98ntnt).ant-typography{color:rgba(0, 0, 0, 0.88);word-break:break-word;line-height:1.5714285714285714;}:where(.css-98ntnt).ant-typography.ant-typography-secondary{color:rgba(0, 0, 0, 0.45);}:where(.css-98ntnt).ant-typography.ant-typography-success{color:#52c41a;}:where(.css-98ntnt).ant-typography.ant-typography-warning{color:#faad14;}:where(.css-98ntnt).ant-typography.ant-typography-danger{color:#ff4d4f;}a:where(.css-98ntnt).ant-typography.ant-typography-danger:active,a:where(.css-98ntnt).ant-typography.ant-typography-danger:focus{color:#d9363e;}a:where(.css-98ntnt).ant-typography.ant-typography-danger:hover{color:#ff7875;}:where(.css-98ntnt).ant-typography.ant-typography-disabled{color:rgba(0, 0, 0, 0.25);cursor:not-allowed;user-select:none;}div:where(.css-98ntnt).ant-typography,:where(.css-98ntnt).ant-typography p{margin-bottom:1em;}h1:where(.css-98ntnt).ant-typography,div:where(.css-98ntnt).ant-typography-h1,div:where(.css-98ntnt).ant-typography-h1>textarea,:where(.css-98ntnt).ant-typography h1{margin-bottom:0.5em;color:rgba(0, 0, 0, 0.88);font-weight:600;font-size:38px;line-height:1.2105263157894737;}h2:where(.css-98ntnt).ant-typography,div:where(.css-98ntnt).ant-typography-h2,div:where(.css-98ntnt).ant-typography-h2>textarea,:where(.css-98ntnt).ant-typography h2{margin-bottom:0.5em;color:rgba(0, 0, 0, 0.88);font-weight:600;font-size:30px;line-height:1.2666666666666666;}h3:where(.css-98ntnt).ant-typography,div:where(.css-98ntnt).ant-typography-h3,div:where(.css-98ntnt).ant-typography-h3>textarea,:where(.css-98ntnt).ant-typography h3{margin-bottom:0.5em;color:rgba(0, 0, 0, 0.88);font-weight:600;font-size:24px;line-height:1.3333333333333333;}h4:where(.css-98ntnt).ant-typography,div:where(.css-98ntnt).ant-typography-h4,div:where(.css-98ntnt).ant-typography-h4>textarea,:where(.css-98ntnt).ant-typography h4{margin-bottom:0.5em;color:rgba(0, 0, 0, 0.88);font-weight:600;font-size:20px;line-height:1.4;}h5:where(.css-98ntnt).ant-typography,div:where(.css-98ntnt).ant-typography-h5,div:where(.css-98ntnt).ant-typography-h5>textarea,:where(.css-98ntnt).ant-typography h5{margin-bottom:0.5em;color:rgba(0, 0, 0, 0.88);font-weight:600;font-size:16px;line-height:1.5;}:where(.css-98ntnt).ant-typography+h1.ant-typography,:where(.css-98ntnt).ant-typography+h2.ant-typography,:where(.css-98ntnt).ant-typography+h3.ant-typography,:where(.css-98ntnt).ant-typography+h4.ant-typography,:where(.css-98ntnt).ant-typography+h5.ant-typography{margin-top:1.2em;}:where(.css-98ntnt).ant-typography div +h1,:where(.css-98ntnt).ant-typography ul +h1,:where(.css-98ntnt).ant-typography li +h1,:where(.css-98ntnt).ant-typography p +h1,:where(.css-98ntnt).ant-typography h1 +h1,:where(.css-98ntnt).ant-typography h2 +h1,:where(.css-98ntnt).ant-typography h3 +h1,:where(.css-98ntnt).ant-typography h4 +h1,:where(.css-98ntnt).ant-typography h5 +h1,:where(.css-98ntnt).ant-typography div +h2,:where(.css-98ntnt).ant-typography ul +h2,:where(.css-98ntnt).ant-typography li +h2,:where(.css-98ntnt).ant-typography p +h2,:where(.css-98ntnt).ant-typography h1 +h2,:where(.css-98ntnt).ant-typography h2 +h2,:where(.css-98ntnt).ant-typography h3 +h2,:where(.css-98ntnt).ant-typography h4 +h2,:where(.css-98ntnt).ant-typography h5 +h2,:where(.css-98ntnt).ant-typography div +h3,:where(.css-98ntnt).ant-typography ul +h3,:where(.css-98ntnt).ant-typography li +h3,:where(.css-98ntnt).ant-typography p +h3,:where(.css-98ntnt).ant-typography h1 +h3,:where(.css-98ntnt).ant-typography h2 +h3,:where(.css-98ntnt).ant-typography h3 +h3,:where(.css-98ntnt).ant-typography h4 +h3,:where(.css-98ntnt).ant-typography h5 +h3,:where(.css-98ntnt).ant-typography div +h4,:where(.css-98ntnt).ant-typography ul +h4,:where(.css-98ntnt).ant-typography li +h4,:where(.css-98ntnt).ant-typography p +h4,:where(.css-98ntnt).ant-typography h1 +h4,:where(.css-98ntnt).ant-typography h2 +h4,:where(.css-98ntnt).ant-typography h3 +h4,:where(.css-98ntnt).ant-typography h4 +h4,:where(.css-98ntnt).ant-typography h5 +h4,:where(.css-98ntnt).ant-typography div +h5,:where(.css-98ntnt).ant-typography ul +h5,:where(.css-98ntnt).ant-typography li +h5,:where(.css-98ntnt).ant-typography p +h5,:where(.css-98ntnt).ant-typography h1 +h5,:where(.css-98ntnt).ant-typography h2 +h5,:where(.css-98ntnt).ant-typography h3 +h5,:where(.css-98ntnt).ant-typography h4 +h5,:where(.css-98ntnt).ant-typography h5 +h5{margin-top:1.2em;}:where(.css-98ntnt).ant-typography code{margin:0 0.2em;padding-inline:0.4em;padding-block:0.2em 0.1em;font-size:85%;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,Courier,monospace;background:rgba(150, 150, 150, 0.1);border:1px solid rgba(100, 100, 100, 0.2);border-radius:3px;}:where(.css-98ntnt).ant-typography kbd{margin:0 0.2em;padding-inline:0.4em;padding-block:0.15em 0.1em;font-size:90%;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,Courier,monospace;background:rgba(150, 150, 150, 0.06);border:1px solid rgba(100, 100, 100, 0.2);border-bottom-width:2px;border-radius:3px;}:where(.css-98ntnt).ant-typography mark{padding:0;background-color:#ffe58f;}:where(.css-98ntnt).ant-typography u,:where(.css-98ntnt).ant-typography ins{text-decoration:underline;text-decoration-skip-ink:auto;}:where(.css-98ntnt).ant-typography s,:where(.css-98ntnt).ant-typography del{text-decoration:line-through;}:where(.css-98ntnt).ant-typography strong{font-weight:600;}:where(.css-98ntnt).ant-typography ul,:where(.css-98ntnt).ant-typography ol{margin-inline:0;margin-block:0 1em;padding:0;}:where(.css-98ntnt).ant-typography ul li,:where(.css-98ntnt).ant-typography ol li{margin-inline:20px 0;margin-block:0;padding-inline:4px 0;padding-block:0;}:where(.css-98ntnt).ant-typography ul{list-style-type:circle;}:where(.css-98ntnt).ant-typography ul ul{list-style-type:disc;}:where(.css-98ntnt).ant-typography ol{list-style-type:decimal;}:where(.css-98ntnt).ant-typography pre,:where(.css-98ntnt).ant-typography blockquote{margin:1em 0;}:where(.css-98ntnt).ant-typography pre{padding:0.4em 0.6em;white-space:pre-wrap;word-wrap:break-word;background:rgba(150, 150, 150, 0.1);border:1px solid rgba(100, 100, 100, 0.2);border-radius:3px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,Courier,monospace;}:where(.css-98ntnt).ant-typography pre code{display:inline;margin:0;padding:0;font-size:inherit;font-family:inherit;background:transparent;border:0;}:where(.css-98ntnt).ant-typography blockquote{padding-inline:0.6em 0;padding-block:0;border-inline-start:4px solid rgba(100, 100, 100, 0.2);opacity:0.85;}a:where(.css-98ntnt).ant-typography,:where(.css-98ntnt).ant-typography a{color:#1677ff;text-decoration:none;outline:none;cursor:pointer;transition:color 0.3s;}a:where(.css-98ntnt).ant-typography:focus,:where(.css-98ntnt).ant-typography a:focus,a:where(.css-98ntnt).ant-typography:hover,:where(.css-98ntnt).ant-typography a:hover{color:#69b1ff;}a:where(.css-98ntnt).ant-typography:active,:where(.css-98ntnt).ant-typography a:active{color:#0958d9;}a:where(.css-98ntnt).ant-typography:active,:where(.css-98ntnt).ant-typography a:active,a:where(.css-98ntnt).ant-typography:hover,:where(.css-98ntnt).ant-typography a:hover{text-decoration:none;}a:where(.css-98ntnt).ant-typography[disabled],:where(.css-98ntnt).ant-typography a[disabled],a:where(.css-98ntnt).ant-typography.ant-typography-disabled,:where(.css-98ntnt).ant-typography a.ant-typography-disabled{color:rgba(0, 0, 0, 0.25);cursor:not-allowed;}a:where(.css-98ntnt).ant-typography[disabled]:active,:where(.css-98ntnt).ant-typography a[disabled]:active,a:where(.css-98ntnt).ant-typography.ant-typography-disabled:active,:where(.css-98ntnt).ant-typography a.ant-typography-disabled:active,a:where(.css-98ntnt).ant-typography[disabled]:hover,:where(.css-98ntnt).ant-typography a[disabled]:hover,a:where(.css-98ntnt).ant-typography.ant-typography-disabled:hover,:where(.css-98ntnt).ant-typography a.ant-typography-disabled:hover{color:rgba(0, 0, 0, 0.25);}a:where(.css-98ntnt).ant-typography[disabled]:active,:where(.css-98ntnt).ant-typography a[disabled]:active,a:where(.css-98ntnt).ant-typography.ant-typography-disabled:active,:where(.css-98ntnt).ant-typography a.ant-typography-disabled:active{pointer-events:none;}:where(.css-98ntnt).ant-typography .ant-typography-expand,:where(.css-98ntnt).ant-typography .ant-typography-collapse,:where(.css-98ntnt).ant-typography .ant-typography-edit,:where(.css-98ntnt).ant-typography .ant-typography-copy{color:#1677ff;text-decoration:none;outline:none;cursor:pointer;transition:color 0.3s;margin-inline-start:4px;}:where(.css-98ntnt).ant-typography .ant-typography-expand:focus,:where(.css-98ntnt).ant-typography .ant-typography-collapse:focus,:where(.css-98ntnt).ant-typography .ant-typography-edit:focus,:where(.css-98ntnt).ant-typography .ant-typography-copy:focus,:where(.css-98ntnt).ant-typography .ant-typography-expand:hover,:where(.css-98ntnt).ant-typography .ant-typography-collapse:hover,:where(.css-98ntnt).ant-typography .ant-typography-edit:hover,:where(.css-98ntnt).ant-typography .ant-typography-copy:hover{color:#69b1ff;}:where(.css-98ntnt).ant-typography .ant-typography-expand:active,:where(.css-98ntnt).ant-typography .ant-typography-collapse:active,:where(.css-98ntnt).ant-typography .ant-typography-edit:active,:where(.css-98ntnt).ant-typography .ant-typography-copy:active{color:#0958d9;}:where(.css-98ntnt).ant-typography-edit-content{position:relative;}div:where(.css-98ntnt).ant-typography-edit-content{inset-inline-start:-12px;margin-top:-12px;margin-bottom:calc(1em - 12px);}:where(.css-98ntnt).ant-typography-edit-content .ant-typography-edit-content-confirm{position:absolute;inset-inline-end:10px;inset-block-end:8px;color:rgba(0, 0, 0, 0.45);font-weight:normal;font-size:14px;font-style:normal;pointer-events:none;}:where(.css-98ntnt).ant-typography-edit-content textarea{margin:0!important;-moz-transition:none;height:1em;}:where(.css-98ntnt).ant-typography .ant-typography-copy-success,:where(.css-98ntnt).ant-typography .ant-typography-copy-success:hover,:where(.css-98ntnt).ant-typography .ant-typography-copy-success:focus{color:#52c41a;}:where(.css-98ntnt).ant-typography .ant-typography-copy-icon-only{margin-inline-start:0;}a:where(.css-98ntnt).ant-typography-ellipsis,span:where(.css-98ntnt).ant-typography-ellipsis{display:inline-block;max-width:100%;}:where(.css-98ntnt).ant-typography-ellipsis-single-line{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}a:where(.css-98ntnt).ant-typography-ellipsis-single-line,span:where(.css-98ntnt).ant-typography-ellipsis-single-line{vertical-align:bottom;}:where(.css-98ntnt).ant-typography-ellipsis-single-line >code{padding-block:0;max-width:calc(100% - 1.2em);display:inline-block;overflow:hidden;text-overflow:ellipsis;vertical-align:bottom;box-sizing:content-box;}:where(.css-98ntnt).ant-typography-ellipsis-multiple-line{display:-webkit-box;overflow:hidden;-webkit-line-clamp:3;-webkit-box-orient:vertical;}:where(.css-98ntnt).ant-typography-rtl{direction:rtl;}</style><style data-rc-order=""prependQueue"" data-css-hash=""bxdnt9"" data-token-hash=""8a1xef"">.anticon{display:inline-flex;align-items:center;color:inherit;font-style:normal;line-height:0;text-align:center;text-transform:none;vertical-align:-0.125em;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}.anticon >*{line-height:1;}.anticon svg{display:inline-block;}.anticon .anticon .anticon-icon{display:block;}</style>
+<meta charset=""utf-8"">
+<meta name=""viewport"" content=""width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"">
+<meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+<link rel=""shortcut icon"" href=""https://resources.cshns.cn/favicon.ico"">
+<title>中软好泰云桌面</title>
+<script src=""/runtime/config""></script>
+<script src=""https://resources.cshns.cn/w-static/cs-website-platform/build-1.8.4.308/framework.js""></script>
+</head>
+<body>
+<div id=""root""></div>
+<script src=""https://resources.cshns.cn/w-static/cs-website-platform/build-1.8.4.308/umi.js""></script>
+
+</body>",,上海市,北京中软好泰科技有限责任公司,"[{""name"": ""Express"", ""version"": """"}, {""name"": ""Ant Design"", ""version"": """"}, {""name"": ""Node.js"", ""version"": """"}]",中国,platform-v2.cshns.cn,"HTTP/1.1 200 OK
+Last-Modified: Fri, 17 Apr 2026 02:51:39 GMT
+Vary: Accept-Encoding
+X-Powered-By: Express
+Cache-Control: public, max-age=0
+Etag: W/""288-19d9959e678""
+Content-Length: 648
+Date: Thu, 07 May 2026 18:02:16 GMT
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+",,['页面无备案号'],81.69.167.31,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-09,http://platform-v2.cshns.cn,-,中软好泰云桌面,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 200 OK
+Server: stgw
+Date: Sat, 09 May 2026 02:45:34 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Mon, 29 Sep 2025 03:50:17 GMT
+Connection: keep-alive
+ETag: \""68da01f9-0\""
+Accept-Ranges: bytes
+
+",tcp,,34f202feaaa358ad92e29316f7402d4a8382c99455848ef9540a0d4f76526b27,上海市,北京中软好泰科技有限责任公司,,中国,cwkp1.cshos.cn,"HTTP/2.0 200 OK
+Last-Modified: Mon, 29 Sep 2025 03:50:17 GMT
+Etag: ""68da01f9-0""
+Accept-Ranges: bytes
+Server: stgw
+Date: Sat, 09 May 2026 02:46:30 GMT
+Content-Type: text/html
+Content-Length: 0
+",stgw,,111.231.36.49,云厂商,否,是,腾讯,京ICP备18050968号,,443,https,上海市,"Subject:
+  Common Name:          *.cshos.cn
+
+Issuer:
+  Common Name:          TrustAsia DV TLS RSA CA 2024
+  Organization:         TrustAsia Technologies, Inc.
+  Country:              CN
+
+Validity Period
+  Not Before:  2026-02-09 16:00:00 +0800 CST
+  Not After:   2027-03-05 15:59:59 +0800 CST
+
+Serial: 60 58 DB 1A E0 93 8A 1B F4 A1 80 06 B8 EB 45 73 53 C9 93 2D
+Version: 3
+Signature:
+  Algorithm: SHA-256 with RSA
+
+Public Key:
+  Algorithm: RSA
+  Public Exponent: 65537
+  Key Size: 2048
+  Usage:
+    - Digital Signature
+    - Key Encipherment
+
+Extension: Subject Alternative Name
+  - DNS: *.cshos.cn
+  - DNS: cshos.cn
+
+Extension: Key Usage
+  - SSL/TLS Web Server Authentication
+
+-----BEGIN CERTIFICATE-----
+MIIHkjCCBXqgAwIBAgIUYFjbGuCTihv0oYAGuOtFc1PJky0wDQYJKoZIhvcNAQEL
+BQAwWzELMAkGA1UEBhMCQ04xJTAjBgNVBAoTHFRydXN0QXNpYSBUZWNobm9sb2dp
+ZXMsIEluYy4xJTAjBgNVBAMTHFRydXN0QXNpYSBEViBUTFMgUlNBIENBIDIwMjQw
+HhcNMjYwMjA5MDgwMDAwWhcNMjcwMzA1MDc1OTU5WjAVMRMwEQYDVQQDDAoqLmNz
+aG9zLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0cks2Zmm1C2F
+FMfSDd6dIRIBI982rwv80WfLebXLL+UIUG+NxlCs2FM4u/4mo3EYjPFCDWStIqIB
+Lsta6ebNPu9BXqZhqsZjgNToKN0nYosZGNSC43hfpQCawWJxn/8mwLpDdYVYI2PS
+6KUXuLExYXqBb/muFGkySJUO/ndhOT4iwxsfjdPsDWRXPB49cfkrmdXYasWaZ5aL
+Dts26FBt9teXWczSeIqwfXuAglzUAorhSoZI3bFYJuEUtABs1IBzfqTygIaqeeEi
+/mf/813T36/w4+3QwrhDXWzcANi/7J3TlwSX8Y+CV2d13M9d9IVqloKcKlhKP6J6
+Pa9lzuPcIQIDAQABo4IDkjCCA44wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBRh
+dQVOGvUPwWAgIMIo2Yuz4sF9tDCBlwYIKwYBBQUHAQEEgYowgYcwQwYIKwYBBQUH
+MAKGN2h0dHA6Ly9pY2Eud3QudHJ1c3Rhc2lhLmNvbS9UcnVzdEFzaWFEVlRMU1JT
+QUNBMjAyNC5jcnQwQAYIKwYBBQUHMAGGNGh0dHA6Ly9vY3NwLnd0LnRydXN0YXNp
+YS5jb20vVHJ1c3RBc2lhRFZUTFNSU0FDQTIwMjQwHwYDVR0RBBgwFoIKKi5jc2hv
+cy5jboIIY3Nob3MuY24wEwYDVR0gBAwwCjAIBgZngQwBAgEwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwSAYDVR0fBEEwPzA9oDugOYY3aHR0cDovL2NybC53dC50cnVzdGFz
+aWEuY29tL1RydXN0QXNpYURWVExTUlNBQ0EyMDI0LmNybDAdBgNVHQ4EFgQUSrYL
+dMUmOXeu8I7TNdLZThLQS8wwDgYDVR0PAQH/BAQDAgWgMIIB/QYKKwYBBAHWeQIE
+AgSCAe0EggHpAecAdgBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAA
+AZxBta3RAAAEAwBHMEUCIQC6fPQZa0bGAKQnV/ddlPvsD+e2zRDclr4aagwHSpJ7
+0wIgNm+d9ZfSz2tIw7ae8KHQr1MOBbamxxHO+jL3GYsNWaIAfwBZbmwzhpSyWXKi
+Vsig6N2QSnboCD3ahzsBCDgoFDzuWQAAAZxBta/hAAgAAAUAACQp1wQDAEgwRgIh
+AJrbbPUT0b4/Tg81cm0MVYHHStnKkTIFB06UxcvawIvQAiEAl9sEQUJWti5IVuvq
+oSOl90cXMclDxQwwyi+AHQ/Z7AIAdADt2uuBXGMhNEm0e+UHeQWr0NkxR8J6xRRr
+O8WOQ+m2xwAAAZxBtauLAAAEAwBFMEMCIBJQxw1QrEsjhaDsf94G9AHosp9zitY5
+thSmXvdykxm4Ah8UiVcDTEQj8Kt8hUdaB9MJt+Q/J7Bo+n999tKt2tzuAHYAHJ9o
+LOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGcQbWuaQAABAMARzBFAiAv
+QxGgAsqs69kZwHEBWHW23ozvwYhMy8hm62OrBZURvQIhALvCBj9o3dG+8hZTU0FY
+Lp4XWC88e4gtcP7xzwTsYJBDMA0GCSqGSIb3DQEBCwUAA4ICAQBDRJc+ejQ+iKYR
+F5913BaQoExcgqyVItd+clMy/Fd9AVk7t6IuuAfKn0e2lgeEXhY8JXRLeSX9P+IR
+QdFV3wSwUwtjjlZQL17PlVvgh29QSWjOhptde2GDP2TMuC/3vgwZvpr9MUZxvaJL
+yNMtp7OhW21ZDfhktumGhNS8e6I2kqHb8fzDDNtyfGUKu9bmBzWS9KU/sH/F3Dmc
+8cmQh2naxK5Dabd+3Zeu/ISUjsbs4DYUc7sqTf8FVnXnItuFKwcAhoQO3hIrfECo
+fDdWeReG56lhHWg5MYiKurBN3KGeT7rNkXrPbZui7P2y8GYqYQc/wElBpZ+iOFNy
+sqap01s7UccrhGIH+sCcUEVVpCFwGKR6RH4NFugVcGiE3LinG/1JXKbJeJgqB7xZ
+lk6IDMqFTgetBLRC4qrC71Jd9xNWdUCWEvO5LnKE9XC0qxm8C5vUdutgz7YNCGok
+tyKKZ2eyPH5xW4QgJIxgpPzOBXzgR5/tsAYgljOd2yKd/0CEg8MqDkNMfnz8jMuZ
+XbhCLZHCgb/jCJztqxJhbVS/kgFPw6t8SZmXpij5BFTYFmRtyf+VUFptb2CtmLNP
+vbyaxcPtKOdebgrWRQSoL0WcqgJ+MeQi4OyZsfeGk2ofaLFLd2qLJ1CWtIaQ9w16
+9NxOseKgx+7lP+PRtbv0+JeBSdQmvg==
+-----END CERTIFICATE-----
+",200,2026-05-09,https://cwkp1.cshos.cn,-,,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-02 12:39:58', 'expiry_date': '2026-11-02 12:39:58', 'updated_date': '', 'name_servers': ['dns24.hichina.com', 'dns23.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 302 Moved Temporarily
+Server: stgw
+Date: Tue, 05 May 2026 20:42:49 GMT
+Content-Type: text/html
+Content-Length: 137
+Connection: keep-alive
+Location: HTTPS://81.69.167.31/
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
+",tcp,"<head>
+<meta charset=""utf-8"">
+<meta name=""viewport"" content=""width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"">
+<meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+<title>运维平台</title>
+<script src=""https://resources.cshns.cn/w-static/op-website-pcm/build-1.8.3.100/preload_helper.js""></script>
+</head>
+<body>
+<div id=""root""></div>
+<script src=""https://resources.cshns.cn/w-static/op-website-pcm/build-1.8.3.100/umi.js""></script>
+
+</body>",,上海市,北京中软好泰科技有限责任公司,"[{""name"": ""Express"", ""version"": """"}, {""name"": ""Node.js"", ""version"": """"}]",中国,op-v2.cshns.cn,"HTTP/1.1 200 OK
+Content-Length: 521
+Cache-Control: public, max-age=0
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 05 May 2026 20:43:11 GMT
+Etag: W/""209-19cbd265178""
+Last-Modified: Thu, 05 Mar 2026 08:38:51 GMT
+X-Powered-By: Express
+Accept-Ranges: bytes
+",,['页面无备案号'],81.69.167.31,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-09,http://op-v2.cshns.cn,-,运维平台,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 302 Moved Temporarily
+Server: stgw
+Date: Tue, 05 May 2026 20:42:49 GMT
+Content-Type: text/html
+Content-Length: 137
+Connection: keep-alive
+Location: HTTPS://81.69.167.31/
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
+",tcp,,,上海市,北京中软好泰科技有限责任公司,,中国,data.cshns.cn,"HTTP/2.0 200 OK
+Etag: ""68d2323d-0""
+Accept-Ranges: bytes
+Server: stgw
+Date: Tue, 05 May 2026 20:43:12 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 23 Sep 2025 05:38:05 GMT
+",stgw,,81.69.167.31,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-08,http://data.cshns.cn,-,,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 200 OK
+Date: Tue, 05 May 2026 07:43:28 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: keep-alive
+Server: nginx
+A: B
+xxx: yyy
+
+",tcp,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=iso-8859-1"" />
+<title>IIS Windows Server</title>
+<style type=""text/css"">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id=""container"">
+<a href=""http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409""><img src=""iisstart.png"" alt=""IIS"" width=""960"" height=""600"" /></a>
+</div>
+</body>
+</html>",,广州市,北京中软好泰科技有限责任公司,"[{""name"": ""Microsoft ASP.NET"", ""version"": """"}, {""name"": ""Nginx"", ""version"": ""1.16.1""}]",中国,cwif2.cshos.cn,"HTTP/1.1 200 OK
+Connection: keep-alive
+Server: nginx/1.16.1
+Last-Modified: Tue, 25 Feb 2020 06:45:44 GMT
+Accept-Ranges: bytes
+Etag: ""13204434a7ebd51:0""
+Xxx: yyy
+Date: Tue, 05 May 2026 07:43:38 GMT
+Content-Type: text/html
+Content-Length: 703
+X-Powered-By: ASP.NET
+A: B
+",nginx/1.16.1,['页面无备案号'],106.55.77.51,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,广东省,,200,2026-05-08,http://cwif2.cshos.cn,"CVE-2019-20372,CVE-2025-23419",IIS Windows Server,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-02 12:39:58', 'expiry_date': '2026-11-02 12:39:58', 'updated_date': '', 'name_servers': ['dns24.hichina.com', 'dns23.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 302 Moved Temporarily
+Server: stgw
+Date: Tue, 05 May 2026 20:42:49 GMT
+Content-Type: text/html
+Content-Length: 137
+Connection: keep-alive
+Location: HTTPS://81.69.167.31/
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
+",tcp,"<head><meta charset=""utf-8""><link rel=""icon"" href=""https://resources.cshns.cn/favicon.ico""><meta name=""viewport"" content=""width=device-width,initial-scale=1""><meta name=""theme-color"" content=""#000000""><meta name=""description"" content=""慧享平台登录""><link rel=""apple-touch-icon"" href=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/logo192.png""><link rel=""manifest"" href=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/manifest.json""><script src=""/runtime/config""></script><title>慧享平台登录</title><link href=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/static/css/main.07dd8f12.chunk.css"" rel=""stylesheet""><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/static/js/2.9656d718.chunk.js""></script><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/static/js/4.b8c3256e.chunk.js""></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=""root""> <div class=""ant-spin-nested-loading spin-wrapper""><div class=""ant-spin-container""><div>loading...</div></div></div> </div><script>!function(e){function t(t){for(var n,o,i=t[0],c=t[1],s=t[2],l=0,p=[];l<i.length;l++)o=i[l],Object.prototype.hasOwnProperty.call(a,o)&&a[o]&&p.push(a[o][0]),a[o]=0;for(n in c)Object.prototype.hasOwnProperty.call(c,n)&&(e[n]=c[n]);for(f&&f(t);p.length;)p.shift()();return u.push.apply(u,s||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,o=1;o<r.length;o++){var c=r[o];0!==a[c]&&(n=!1)}n&&(u.splice(t--,1),e=i(i.s=r[0]))}return e}var n={},o={1:0},a={1:0},u=[];function i(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,i),r.l=!0,r.exports}i.e=function(e){var t=[];o[e]?t.push(o[e]):0!==o[e]&&{4:1}[e]&&t.push(o[e]=new Promise((function(t,r){for(var n=""static/css/""+({}[e]||e)+"".""+{2:""31d6cfe0"",4:""94decd75""}[e]+"".chunk.css"",a=i.p+n,u=document.getElementsByTagName(""link""),c=0;c<u.length;c++){var s=(f=u[c]).getAttribute(""data-href"")||f.getAttribute(""href"");if(""stylesheet""===f.rel&&(s===n||s===a))return t()}var l=document.getElementsByTagName(""style"");for(c=0;c<l.length;c++){var f;if((s=(f=l[c]).getAttribute(""data-href""))===n||s===a)return t()}var p=document.createElement(""link"");p.rel=""stylesheet"",p.type=""text/css"",p.onload=t,p.onerror=function(t){var n=t&&t.target&&t.target.src||a,u=new Error(""Loading CSS chunk ""+e+"" failed.\n(""+n+"")"");u.code=""CSS_CHUNK_LOAD_FAILED"",u.request=n,delete o[e],p.parentNode.removeChild(p),r(u)},p.href=a,document.getElementsByTagName(""head"")[0].appendChild(p)})).then((function(){o[e]=0})));var r=a[e];if(0!==r)if(r)t.push(r[2]);else{var n=new Promise((function(t,n){r=a[e]=[t,n]}));t.push(r[2]=n);var u,c=document.createElement(""script"");c.charset=""utf-8"",c.timeout=120,i.nc&&c.setAttribute(""nonce"",i.nc),c.src=function(e){return i.p+""static/js/""+({}[e]||e)+"".""+{2:""9656d718"",4:""b8c3256e""}[e]+"".chunk.js""}(e);var s=new Error;u=function(t){c.onerror=c.onload=null,clearTimeout(l);var r=a[e];if(0!==r){if(r){var n=t&&(""load""===t.type?""missing"":t.type),o=t&&t.target&&t.target.src;s.message=""Loading chunk ""+e+"" failed.\n(""+n+"": ""+o+"")"",s.name=""ChunkLoadError"",s.type=n,s.request=o,r[1](s)}a[e]=void 0}};var l=setTimeout((function(){u({type:""timeout"",target:c})}),12e4);c.onerror=c.onload=u,document.head.appendChild(c)}return Promise.all(t)},i.m=e,i.c=n,i.d=function(e,t,r){i.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},i.r=function(e){""undefined""!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:""Module""}),Object.defineProperty(e,""__esModule"",{value:!0})},i.t=function(e,t){if(1&t&&(e=i(e)),8&t)return e;if(4&t&&""object""==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(i.r(r),Object.defineProperty(r,""default"",{enumerable:!0,value:e}),2&t&&""string""!=typeof e)for(var n in e)i.d(r,n,function(t){return e[t]}.bind(null,n));return r},i.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return i.d(t,""a"",t),t},i.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},i.p=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/"",i.oe=function(e){throw console.error(e),e};var c=this.webpackJsonpcs_website_login=this.webpackJsonpcs_website_login||[],s=c.push.bind(c);c.push=t,c=c.slice();for(var l=0;l<c.length;l++)t(c[l]);var f=s;r()}([])</script><script src=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/static/js/3.e765acda.chunk.js""></script><script src=""https://resources.cshns.cn/w-static/platform-login/build-1.8.3.67/static/js/main.81903461.chunk.js""></script></body>",,上海市,北京中软好泰科技有限责任公司,,中国,login.cshns.cn,"HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Etag: W/""1110-19cfb3cfca0""
+Cache-Control: public, max-age=0
+Connection: keep-alive
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 07 May 2026 17:58:29 GMT
+Accept-Ranges: bytes
+Last-Modified: Tue, 17 Mar 2026 10:00:04 GMT
+X-Powered-By: Express
+",,['页面无备案号'],81.69.167.31,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-08,http://login.cshns.cn,-,慧享平台登录,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 302 Moved Temporarily
+Server: stgw
+Date: Tue, 05 May 2026 20:42:49 GMT
+Content-Type: text/html
+Content-Length: 137
+Connection: keep-alive
+Location: HTTPS://81.69.167.31/
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
+",tcp,"<head><meta charset=""utf-8""><link rel=""icon"" href=""https://resources.cshns.cn/w-static/platform/bitbug_favicon.ico""><meta name=""viewport"" content=""width=device-width,initial-scale=1""><meta name=""theme-color"" content=""#000000""><meta name=""description"" content=""慧云平台、酒店营销解决方案""><script src=""https://cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js""></script><link rel=""apple-touch-icon"" href=""https://resources.cshns.cn/w-static/platform/logo-b.png""><script>const aegis=new Aegis({id:""e7RXwHlmdlvaZZd4X0"",reportApiSpeed:!0,reportAssetSpeed:!0,spa:!0,hostUrl:""https://rumt-zh.com""})</script><title>慧云营销平台</title><style media=""print"">.noprint{display:none}</style><link href=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/css/main.50a2ff7b.chunk.css"" rel=""stylesheet""><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/0.2a3b00d1.chunk.js""></script><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/1.79ff4be7.chunk.js""></script><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/2.b527d524.chunk.js""></script><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/4.b85fc3e5.chunk.js""></script><script charset=""utf-8"" src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/43.959f9287.chunk.js""></script></head><body><noscript>请开启JavaScript支持</noscript><div id=""root""> <div class=""ant-spin-nested-loading spin-wrapper""><div class=""ant-spin-container""><div>loading...</div></div></div> </div><script>!function(e){function c(c){for(var d,a,r=c[0],n=c[1],o=c[2],u=0,s=[];u<r.length;u++)a=r[u],Object.prototype.hasOwnProperty.call(b,a)&&b[a]&&s.push(b[a][0]),b[a]=0;for(d in n)Object.prototype.hasOwnProperty.call(n,d)&&(e[d]=n[d]);for(i&&i(c);s.length;)s.shift()();return t.push.apply(t,o||[]),f()}function f(){for(var e,c=0;c<t.length;c++){for(var f=t[c],d=!0,a=1;a<f.length;a++){var n=f[a];0!==b[n]&&(d=!1)}d&&(t.splice(c--,1),e=r(r.s=f[0]))}return e}var d={},a={14:0},b={14:0},t=[];function r(c){if(d[c])return d[c].exports;var f=d[c]={i:c,l:!1,exports:{}};return e[c].call(f.exports,f,f.exports,r),f.l=!0,f.exports}r.e=function(e){var c=[];a[e]?c.push(a[e]):0!==a[e]&&{7:1,8:1,11:1,15:1,16:1,17:1,18:1,19:1,21:1,22:1,23:1,24:1,25:1,26:1,27:1,28:1,29:1,30:1,31:1,32:1,34:1,35:1,36:1,39:1,41:1,42:1,43:1,44:1,45:1,46:1,47:1,48:1,49:1,50:1,51:1,53:1,54:1,55:1,56:1,57:1,60:1,63:1,64:1,67:1,68:1,70:1,72:1,85:1,87:1,88:1,89:1,91:1,92:1,96:1,100:1,101:1,102:1,105:1,106:1,111:1,112:1,115:1,116:1,117:1,118:1,119:1,122:1,126:1,129:1,133:1,134:1,136:1,137:1,138:1,139:1,140:1,143:1,144:1,150:1,152:1,154:1,155:1,156:1,159:1,160:1,163:1,164:1,165:1,166:1,167:1,177:1,179:1}[e]&&c.push(a[e]=new Promise((function(c,f){for(var d=""static/css/""+({}[e]||e)+"".""+{0:""31d6cfe0"",1:""31d6cfe0"",2:""31d6cfe0"",3:""31d6cfe0"",4:""31d6cfe0"",5:""31d6cfe0"",6:""31d6cfe0"",7:""7610872d"",8:""88471b2b"",9:""31d6cfe0"",10:""31d6cfe0"",11:""551a3d41"",12:""31d6cfe0"",15:""48585b52"",16:""6deacad4"",17:""0ca70753"",18:""09b25953"",19:""253b1be3"",21:""8774c615"",22:""e7757a53"",23:""1ab9b3f8"",24:""e7757a53"",25:""091479ac"",26:""8774c615"",27:""ce3f3766"",28:""ce3f3766"",29:""f62295f6"",30:""551cff45"",31:""c7eaabfc"",32:""1e7d1021"",33:""31d6cfe0"",34:""28093b64"",35:""fe50a534"",36:""fe50a534"",37:""31d6cfe0"",38:""31d6cfe0"",39:""f70f41aa"",40:""31d6cfe0"",41:""797e1ddb"",42:""03b0aa3c"",43:""49880347"",44:""f6ffb079"",45:""d51ba0cb"",46:""061d92d8"",47:""ce3f3766"",48:""331d7965"",49:""c691fbbe"",50:""f686b82c"",51:""430d8666"",52:""31d6cfe0"",53:""9ce91a7a"",54:""c4bdfef3"",55:""c5d610c8"",56:""d2ff808a"",57:""8814e215"",58:""31d6cfe0"",59:""31d6cfe0"",60:""a818d201"",61:""31d6cfe0"",62:""31d6cfe0"",63:""d6fa80b6"",64:""7fbee7b8"",65:""31d6cfe0"",66:""31d6cfe0"",67:""d51ba0cb"",68:""0be2d072"",69:""31d6cfe0"",70:""2d634d8e"",71:""31d6cfe0"",72:""083b75c9"",73:""31d6cfe0"",74:""31d6cfe0"",75:""31d6cfe0"",76:""31d6cfe0"",77:""31d6cfe0"",78:""31d6cfe0"",79:""31d6cfe0"",80:""31d6cfe0"",81:""31d6cfe0"",82:""31d6cfe0"",83:""31d6cfe0"",84:""31d6cfe0"",85:""792d307a"",86:""31d6cfe0"",87:""c565f00f"",88:""f3bad9c8"",89:""5ff5e723"",90:""31d6cfe0"",91:""c691fbbe"",92:""969c90ff"",93:""31d6cfe0"",94:""31d6cfe0"",95:""31d6cfe0"",96:""c691fbbe"",97:""31d6cfe0"",98:""31d6cfe0"",99:""31d6cfe0"",100:""c691fbbe"",101:""7fbee7b8"",102:""c691fbbe"",103:""31d6cfe0"",104:""31d6cfe0"",105:""c691fbbe"",106:""c691fbbe"",107:""31d6cfe0"",108:""31d6cfe0"",109:""31d6cfe0"",110:""31d6cfe0"",111:""b37f9e55"",112:""331d7965"",113:""31d6cfe0"",114:""31d6cfe0"",115:""d51ba0cb"",116:""64d999cf"",117:""430d8666"",118:""d79d937c"",119:""430d8666"",120:""31d6cfe0"",121:""31d6cfe0"",122:""297e056c"",123:""31d6cfe0"",124:""31d6cfe0"",125:""31d6cfe0"",126:""d51ba0cb"",127:""31d6cfe0"",128:""31d6cfe0"",129:""d51ba0cb"",130:""31d6cfe0"",131:""31d6cfe0"",132:""31d6cfe0"",133:""c691fbbe"",134:""c691fbbe"",135:""31d6cfe0"",136:""d51ba0cb"",137:""c691fbbe"",138:""88471b2b"",139:""8d896a21"",140:""c691fbbe"",141:""31d6cfe0"",142:""31d6cfe0"",143:""8d896a21"",144:""c691fbbe"",145:""31d6cfe0"",146:""31d6cfe0"",147:""31d6cfe0"",148:""31d6cfe0"",149:""31d6cfe0"",150:""331d7965"",151:""31d6cfe0"",152:""6a78592a"",153:""31d6cfe0"",154:""d6fa80b6"",155:""eaf0327e"",156:""331d7965"",157:""31d6cfe0"",158:""31d6cfe0"",159:""d51ba0cb"",160:""d51ba0cb"",161:""31d6cfe0"",162:""31d6cfe0"",163:""3df835a7"",164:""3df835a7"",165:""d6fa80b6"",166:""d6fa80b6"",167:""d5696ebb"",168:""31d6cfe0"",169:""31d6cfe0"",170:""31d6cfe0"",171:""31d6cfe0"",172:""31d6cfe0"",173:""31d6cfe0"",174:""31d6cfe0"",175:""31d6cfe0"",176:""31d6cfe0"",177:""5aa1ff8e"",178:""31d6cfe0"",179:""551a3d41"",180:""31d6cfe0""}[e]+"".chunk.css"",b=r.p+d,t=document.getElementsByTagName(""link""),n=0;n<t.length;n++){var o=(i=t[n]).getAttribute(""data-href"")||i.getAttribute(""href"");if(""stylesheet""===i.rel&&(o===d||o===b))return c()}var u=document.getElementsByTagName(""style"");for(n=0;n<u.length;n++){var i;if((o=(i=u[n]).getAttribute(""data-href""))===d||o===b)return c()}var s=document.createElement(""link"");s.rel=""stylesheet"",s.type=""text/css"",s.onload=c,s.onerror=function(c){var d=c&&c.target&&c.target.src||b,t=new Error(""Loading CSS chunk ""+e+"" failed.\n(""+d+"")"");t.code=""CSS_CHUNK_LOAD_FAILED"",t.request=d,delete a[e],s.parentNode.removeChild(s),f(t)},s.href=b,document.getElementsByTagName(""head"")[0].appendChild(s)})).then((function(){a[e]=0})));var f=b[e];if(0!==f)if(f)c.push(f[2]);else{var d=new Promise((function(c,d){f=b[e]=[c,d]}));c.push(f[2]=d);var t,n=document.createElement(""script"");n.charset=""utf-8"",n.timeout=120,r.nc&&n.setAttribute(""nonce"",r.nc),n.src=function(e){return r.p+""static/js/""+({}[e]||e)+"".""+{0:""2a3b00d1"",1:""79ff4be7"",2:""b527d524"",3:""92c882ae"",4:""b85fc3e5"",5:""6bde67a2"",6:""64866e8c"",7:""5b6fa2e1"",8:""8f326f6a"",9:""dcfb85f0"",10:""63c9dcc7"",11:""26662ac9"",12:""01e849bd"",15:""ab970b89"",16:""f755543d"",17:""4086a571"",18:""02195e4f"",19:""f81894e3"",21:""33a3ff99"",22:""380bb4d8"",23:""f6a4c729"",24:""5eb260b1"",25:""13a74de9"",26:""9b754f9d"",27:""e46f9ed7"",28:""6783044a"",29:""f767956a"",30:""3336765c"",31:""2d983dfd"",32:""83113587"",33:""f590b0de"",34:""f692ffb5"",35:""6597be45"",36:""fb87f904"",37:""c6994bcb"",38:""3ee19bae"",39:""f05669dd"",40:""d9c579bc"",41:""4dd85bfd"",42:""0ed2d4ba"",43:""959f9287"",44:""50c1c607"",45:""55a1db45"",46:""c3a1d0b9"",47:""ae4e5e17"",48:""c3826ae2"",49:""f44a76e9"",50:""ec5de031"",51:""856ccaed"",52:""ebd2391a"",53:""27fb0583"",54:""14a6fe8f"",55:""f7c4c57c"",56:""c79e2a70"",57:""3e07ce97"",58:""2efdbfd9"",59:""309735cd"",60:""c9991020"",61:""0e9db963"",62:""28462235"",63:""5a70c188"",64:""7e3ab5fd"",65:""85673aca"",66:""8f5d2c0d"",67:""507b2fe2"",68:""73c520ee"",69:""a9c19b30"",70:""a9e0a11a"",71:""a9e1eec8"",72:""be541f83"",73:""222789b8"",74:""b51c62d8"",75:""f812e08c"",76:""099b9722"",77:""1dd1ed24"",78:""ae8e26d6"",79:""1d9bfdce"",80:""909521db"",81:""a7f39227"",82:""5d25ba1b"",83:""73934760"",84:""4f396b34"",85:""79203c99"",86:""d3fef391"",87:""7a49ccc7"",88:""ac39eaa1"",89:""4cda3e73"",90:""fac86992"",91:""c8073675"",92:""e49ecdde"",93:""9110a752"",94:""a0c7bb6d"",95:""a1352950"",96:""bbff9125"",97:""4f1d1bb2"",98:""fc605525"",99:""d69ec80f"",100:""73214c20"",101:""c7a128e3"",102:""ded497b9"",103:""9841b9e7"",104:""ebc0246c"",105:""46f9d6eb"",106:""8a9d6b8a"",107:""7d931fd4"",108:""a1fb16c0"",109:""3c3d80b8"",110:""a17deee0"",111:""dac8ca4a"",112:""71dacdef"",113:""f21fee83"",114:""7a2c726d"",115:""52ad2dc4"",116:""2c34d87d"",117:""ef5e918c"",118:""6caa29c9"",119:""91d2f85f"",120:""7d76bf9f"",121:""43647bcd"",122:""8969c499"",123:""4cab3fa2"",124:""ac24cca4"",125:""0d67aa7b"",126:""886fe60e"",127:""1c2bac0d"",128:""eb5f6b75"",129:""25291fcd"",130:""777ae2d8"",131:""3a32bff7"",132:""13c0d611"",133:""d818574b"",134:""1f08d8ee"",135:""834fc689"",136:""2b3d3e88"",137:""de61670a"",138:""c0c38a76"",139:""db05c306"",140:""9c0f4c6d"",141:""4654198d"",142:""8f1bf986"",143:""1b349863"",144:""0db1df98"",145:""7008149c"",146:""0bae10dd"",147:""9a9d8ee5"",148:""e9a1e74d"",149:""c89028ea"",150:""abe24d7f"",151:""1afd663c"",152:""19cbbf52"",153:""3b584109"",154:""955f4049"",155:""99d1c246"",156:""aff019aa"",157:""995f0e59"",158:""481f7db2"",159:""95858850"",160:""235ac9f0"",161:""762afa4a"",162:""a0af5920"",163:""b163a08d"",164:""0d6a7b19"",165:""6dff49e5"",166:""be419372"",167:""d4520e55"",168:""f265b173"",169:""c86aa3d7"",170:""bac4c2c6"",171:""78084ca7"",172:""91fd115c"",173:""2bd882aa"",174:""2b7bd467"",175:""226d2dc7"",176:""0b224845"",177:""fbf250d3"",178:""68926dbf"",179:""3098014b"",180:""8e9b21e0""}[e]+"".chunk.js""}(e);var o=new Error;t=function(c){n.onerror=n.onload=null,clearTimeout(u);var f=b[e];if(0!==f){if(f){var d=c&&(""load""===c.type?""missing"":c.type),a=c&&c.target&&c.target.src;o.message=""Loading chunk ""+e+"" failed.\n(""+d+"": ""+a+"")"",o.name=""ChunkLoadError"",o.type=d,o.request=a,f[1](o)}b[e]=void 0}};var u=setTimeout((function(){t({type:""timeout"",target:n})}),12e4);n.onerror=n.onload=t,document.head.appendChild(n)}return Promise.all(c)},r.m=e,r.c=d,r.d=function(e,c,f){r.o(e,c)||Object.defineProperty(e,c,{enumerable:!0,get:f})},r.r=function(e){""undefined""!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:""Module""}),Object.defineProperty(e,""__esModule"",{value:!0})},r.t=function(e,c){if(1&c&&(e=r(e)),8&c)return e;if(4&c&&""object""==typeof e&&e&&e.__esModule)return e;var f=Object.create(null);if(r.r(f),Object.defineProperty(f,""default"",{enumerable:!0,value:e}),2&c&&""string""!=typeof e)for(var d in e)r.d(f,d,function(c){return e[c]}.bind(null,d));return f},r.n=function(e){var c=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(c,""a"",c),c},r.o=function(e,c){return Object.prototype.hasOwnProperty.call(e,c)},r.p=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/"",r.oe=function(e){throw console.error(e),e};var n=this.webpackJsonpcs_website=this.webpackJsonpcs_website||[],o=n.push.bind(n);n.push=c,n=n.slice();for(var u=0;u<n.length;u++)c(n[u]);var i=o;f()}([])</script><script src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/20.2b73ca18.chunk.js""></script><script src=""https://resources.cshns.cn/w-static/platform/build-1.8.4.341/static/js/main.e4e46b59.chunk.js""></script></body>",,上海市,北京中软好泰科技有限责任公司,"[{""name"": ""Express"", ""version"": """"}, {""name"": ""Ant Design"", ""version"": """"}, {""name"": ""Node.js"", ""version"": """"}]",中国,platform.cshns.cn,"HTTP/1.1 200 OK
+Accept-Ranges: bytes
+X-Powered-By: Express
+Date: Tue, 05 May 2026 20:43:36 GMT
+Vary: Accept-Encoding
+Etag: W/""272c-19d4c1d87e8""
+Last-Modified: Thu, 02 Apr 2026 02:54:57 GMT
+Cache-Control: public, max-age=0
+Connection: keep-alive
+Content-Type: text/html; charset=UTF-8
+",,['页面无备案号'],81.69.167.31,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-08,http://platform.cshns.cn,-,慧云营销平台,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 200 OK
+Server: nginx/1.20.1
+Date: Thu, 07 May 2026 21:02:43 GMT
+Content-Type: text/html
+Content-Length: 4833
+Last-Modified: Fri, 16 May 2014 15:12:48 GMT
+Connection: keep-alive
+ETag: \""53762af0-12e1\""
+Accept-Ranges: bytes
+
+<!DOCTYPE HTML PUBLIC \""-//W3C//DTD HTML 4.01 Transitional//EN\"">
+<html>
+<head>
+  <title>Welcome to CentOS</title>
+  <style rel=\""stylesheet\"" type=\""text/css\""> 
+
+\thtml {
+\tbackground-image:url(img/html-background.png);
+\tbackground-color: white;
+\tfont-family: \""DejaVu Sans\"", \""Liberation Sans\"", sans-serif;
+\tfont-size: 0.85em;
+\tline-height: 1.25em;
+\tmargin: 0 4% 0 4%;
+\t}
+
+\tbody {
+\tborder: 10px solid #fff;
+\tmargin:0;
+\tpadding:0;
+\tbackground: #fff;
+\t}
+
+\t/* Links */
+
+\ta:link { border-bottom: 1px dotted #ccc; text-decoration: none; color: #204d92; }
+\ta:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }
+\ta:active {  border-bottom:1px dotted #ccc; text-decoration: underline; color: #204d92; }
+\ta:visited { border-bottom:1px dotted #ccc; text-decoration: none; color: #204d92; }
+\ta:visited:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }
+ 
+\t.logo a:link,
+\t.logo a:hover,
+\t.logo a:visited { border-bottom: none; }
+
+\t.mainlinks a:link { border-bottom: 1px dotted #ddd; text-decoration: none; color: #eee; }
+\t.mainlinks a:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }
+\t.mainlinks a:active { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }
+\t.mainlinks a:visited { border-bottom:1px dotted #ddd; text-decoration: none; color: white; }
+\t.mainlinks a:visited:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }
+
+\t/* User interface styles */
+
+\t#header {
+\tmargin:0;
+\tpadding: 0.5em;
+\tbackground: #204D8C url(img/header-background.png);
+\ttext-align: left;
+\t}
+
+\t.logo {
+\tpadding: 0;
+\t/* For text only logo */
+\tfont-size: 1.4em;
+\tline-height: 1em;
+\tfont-weight: bold;
+\t}
+
+\t.logo img {
+\tvertical-align: middle;
+\tpadding-right: 1em;
+\t}
+
+\t.logo a {
+\tcolor: #fff;
+\ttext",tcp,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+  <title>Welcome to CentOS</title>
+  <style rel=""stylesheet"" type=""text/css""> 
+
+	html {
+	background-image:url(img/html-background.png);
+	background-color: white;
+	font-family: ""DejaVu Sans"", ""Liberation Sans"", sans-serif;
+	font-size: 0.85em;
+	line-height: 1.25em;
+	margin: 0 4% 0 4%;
+	}
+
+	body {
+	border: 10px solid #fff;
+	margin:0;
+	padding:0;
+	background: #fff;
+	}
+
+	/* Links */
+
+	a:link { border-bottom: 1px dotted #ccc; text-decoration: none; color: #204d92; }
+	a:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }
+	a:active {  border-bottom:1px dotted #ccc; text-decoration: underline; color: #204d92; }
+	a:visited { border-bottom:1px dotted #ccc; text-decoration: none; color: #204d92; }
+	a:visited:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }
+ 
+	.logo a:link,
+	.logo a:hover,
+	.logo a:visited { border-bottom: none; }
+
+	.mainlinks a:link { border-bottom: 1px dotted #ddd; text-decoration: none; color: #eee; }
+	.mainlinks a:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }
+	.mainlinks a:active { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }
+	.mainlinks a:visited { border-bottom:1px dotted #ddd; text-decoration: none; color: white; }
+	.mainlinks a:visited:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }
+
+	/* User interface styles */
+
+	#header {
+	margin:0;
+	padding: 0.5em;
+	background: #204D8C url(img/header-background.png);
+	text-align: left;
+	}
+
+	.logo {
+	padding: 0;
+	/* For text only logo */
+	font-size: 1.4em;
+	line-height: 1em;
+	font-weight: bold;
+	}
+
+	.logo img {
+	vertical-align: middle;
+	padding-right: 1em;
+	}
+
+	.logo a {
+	color: #fff;
+	text-decoration: none;
+	}
+
+	p {
+	line-height:1.5em;
+	}
+
+	h1 { 
+		margin-bottom: 0;
+		line-height: 1.9em; }
+	h2 { 
+		margin-top: 0;
+		line-height: 1.7em; }
+
+	#content {
+	clear:both;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	border-bottom: 5px solid #eee;
+	}
+
+    .mainlinks {
+        float: right;
+        margin-top: 0.5em;
+        text-align: right;
+    }
+
+    ul.mainlinks > li {
+    border-right: 1px dotted #ddd;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline;
+    list-style: none;
+    }
+
+    ul.mainlinks > li.last,
+    ul.mainlinks > li.first {
+    border-right: none;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<div id=""header"">
+
+    <ul class=""mainlinks"">
+        <li> <a href=""http://www.centos.org/"">Home</a> </li>
+        <li> <a href=""http://wiki.centos.org/"">Wiki</a> </li>
+        <li> <a href=""http://wiki.centos.org/GettingHelp/ListInfo"">Mailing Lists</a></li>
+        <li> <a href=""http://www.centos.org/download/mirrors/"">Mirror List</a></li>
+        <li> <a href=""http://wiki.centos.org/irc"">IRC</a></li>
+        <li> <a href=""https://www.centos.org/forums/"">Forums</a></li>
+        <li> <a href=""http://bugs.centos.org/"">Bugs</a> </li>
+        <li class=""last""> <a href=""http://wiki.centos.org/Donate"">Donate</a></li>
+    </ul>
+
+	<div class=""logo"">
+		<a href=""http://www.centos.org/""><img src=""img/centos-logo.png"" border=""0""></a>
+	</div>
+
+</div>
+
+<div id=""content"">
+
+	<h1>Welcome to CentOS</h1>
+
+	<h2>The Community ENTerprise Operating System</h2>
+
+	<p><a href=""http://www.centos.org/"">CentOS</a> is an Enterprise-class Linux Distribution derived from sources freely provided
+to the public by Red Hat, Inc. for Red Hat Enterprise Linux.  CentOS conforms fully with the upstream vendors
+redistribution policy and aims to be functionally compatible. (CentOS mainly changes packages to remove upstream vendor
+branding and artwork.)</p>
+
+	<p>CentOS is developed by a small but growing team of core
+developers.&nbsp; In turn the core developers are supported by an active user community
+including system administrators, network administrators, enterprise users, managers, core Linux contributors and Linux enthusiasts from around the world.</p>
+
+	<p>CentOS has numerous advantages including: an active and growing user community, quickly rebuilt, tested, and QA'ed errata packages, an extensive <a href=""http://www.centos.org/download/mirrors/"">mirror network</a>, developers who are contactable and responsive, Special Interest Groups (<a href=""http://wiki.centos.org/SpecialInterestGroup/"">SIGs</a>) to add functionality to the core CentOS distribution, and multiple community support avenues including a <a href=""http://wiki.centos.org/"">wiki</a>, <a
+href=""http://wiki.centos.org/irc"">IRC Chat</a>, <a href=""http://wiki.centos.org/GettingHelp/ListInfo"">Email Lists</a>, <a href=""https://www.centos.org/forums/"">Forums</a>, <a href=""http://bugs.centos.org/"">Bugs Database</a>, and an <a
+href=""http://wiki.centos.org/FAQ/"">FAQ</a>.</p>
+
+	</div>
+
+</div>
+
+
+</body>
+</html>
+",,上海市,北京中软好泰科技有限责任公司,"[{""name"": ""Nginx"", ""version"": ""1.20.1""}]",中国,edu.cshotel.cn,"HTTP/1.1 200 OK
+Date: Thu, 07 May 2026 21:02:55 GMT
+Content-Type: text/html
+Content-Length: 4833
+Last-Modified: Fri, 16 May 2014 15:12:48 GMT
+Connection: keep-alive
+Etag: ""53762af0-12e1""
+Accept-Ranges: bytes
+Server: nginx/1.20.1
+",nginx/1.20.1,,121.5.9.17,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-08,http://edu.cshotel.cn,CVE-2025-23419,Welcome to CentOS,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2005-06-14 21:11:34', 'expiry_date': '2026-06-14 21:11:34', 'updated_date': '', 'name_servers': ['dns19.hichina.com', 'dns20.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 404 Not Found
+Date: Tue, 05 May 2026 16:18:28 GMT
+Content-Type: text/html
+Content-Length: 153
+Connection: keep-alive
+Server: nginx/1.16.1
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+",tcp,"<head><meta charset=""utf-8""><meta name=""viewport"" content=""width=device-width,initial-scale=1.0""><title>中软好泰BMC平台</title><link rel=""stylesheet"" href=""/1.0.0.12/css/app.7af163c4125d024789981a23f632023c.css""><script type=""text/javascript"" charset=""utf-8"" async="""" src=""/1.0.0.12/js/0.caea9791de4020cc5358.js""></script><script type=""text/javascript"" charset=""utf-8"" async="""" src=""/1.0.0.12/js/4.1b3b62f69d485689a3d0.js""></script></head><body style=""font-family: '微软雅黑'""><div id=""app""><div style=""width: 100%; height: 100%;""><div style=""width: 100%; height: 72px; background: rgb(255, 255, 255);""><img src=""/1.0.0.12/img/login-log.60caa0d.png"" style=""width: 162px; height: 45px; margin-top: 16px; margin-left: 40px;""> <span style=""margin-left: 34px; font-size: 24px; font-weight: 500; color: rgb(0, 0, 0);"">中软好泰BMC平台</span></div> <div class=""div-loginbackimg""><div class=""div-loginbox""><div style=""margin-top: 24px; font-size: 18px; font-weight: bold; color: rgb(51, 51, 51);"">登录</div> <div class=""login-right-username""><i class=""login-right-username-i""></i> <input type=""text"" placeholder=""请输入账号"" name="""" value="""" class=""login-right-username-input""></div> <div class=""login-right-password""><i class=""login-right-password-i1""></i> <input id=""password"" maxlength=""16"" placeholder=""请输入8-16位密码"" name="""" value="""" type=""password"" class=""login-right-password-input""> <i class=""login-right-password-i2""></i></div> <div class=""login-right-forgetPass""><span>忘记密码</span></div> <input type=""button"" name="""" value=""登录"" class=""login-right-btnOkDis""> <div style=""margin: 4px 0px 0px 40px; font-size: 11px; color: rgb(153, 153, 153); text-align: left;""><span class=""login-right-rembUser""><label role=""checkbox"" class=""el-checkbox""><span aria-checked=""mixed"" class=""el-checkbox__input""><span class=""el-checkbox__inner""></span><input type=""checkbox"" aria-hidden=""true"" class=""el-checkbox__original"" value=""""></span><span class=""el-checkbox__label"">记住账号<!----></span></label></span></div> <div style=""margin-top: 50px; font-size: 14px;""><span style=""color: rgb(102, 102, 102);"">没有账号？</span> <span class=""login-right-plaRegister"">平台开通注册</span></div></div> <div style=""position: fixed; bottom: 12px; text-align: center; width: 100%; font-size: 14px; color: rgb(255, 255, 255);""><span>copyright @ 2018 CSHMS All rights Reserved</span></div></div></div></div><script type=""text/javascript"" src=""/1.0.0.12/js/manifest.399e8049f0601eeef4e7.js""></script><script type=""text/javascript"" src=""/1.0.0.12/js/vendor.67dc422d673e7e944652.js""></script><script type=""text/javascript"" src=""/1.0.0.12/js/app.c0d5e7d76665ba085f5c.js""></script></body>",d28dc5e23cbcfec976f46b6c8b41646d8fca41ca64f9d96abe7adefe3cd49b53,上海市,北京中软好泰科技有限责任公司,"[{""name"": ""Express"", ""version"": """"}, {""name"": ""Node.js"", ""version"": """"}, {""name"": ""Nginx"", ""version"": ""1.16.1""}]",中国,cloud.cshns.cn,"HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Vary: Accept-Encoding
+X-Powered-By: Express
+Connection: keep-alive
+Content-Length: 591
+Content-Type: text/html; charset=utf-8
+Date: Tue, 05 May 2026 16:19:43 GMT
+Etag: W/""24f-5jBtrVnAGKZX0Z5NKC0MXYvX45g""
+",nginx/1.16.1,['页面无备案号'],150.158.134.80,云厂商,否,是,腾讯,京ICP备18050968号,,443,https,上海市,"Subject:
+  Common Name:          *.cshns.cn
+
+Issuer:
+  Common Name:          TrustAsia TLS RSA CA
+  Organization:         TrustAsia Technologies, Inc.
+  Organizational Unit:  Domain Validated SSL
+  Country:              CN
+
+Validity Period
+  Not Before:  2019-11-15 08:00:00 +0800 CST
+  Not After:   2020-11-14 20:00:00 +0800 CST (EXPIRED)
+
+Serial: 06 9D AA B2 E5 3A BC 31 DE 5A F0 15 3E D9 BC 2B
+Version: 3
+Signature:
+  Algorithm: SHA-256 with RSA
+
+Public Key:
+  Algorithm: RSA
+  Public Exponent: 65537
+  Key Size: 2048
+  Usage:
+    - Digital Signature
+    - Key Encipherment
+
+Extension: Subject Alternative Name
+  - DNS: *.cshns.cn
+  - DNS: cshns.cn
+
+Extension: Key Usage
+  - SSL/TLS Web Server Authentication
+  - SSL/TLS Web Client Authentication
+
+-----BEGIN CERTIFICATE-----
+MIIFnDCCBISgAwIBAgIQBp2qsuU6vDHeWvAVPtm8KzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJDTjElMCMGA1UEChMcVHJ1c3RBc2lhIFRlY2hub2xvZ2llcywg
+SW5jLjEdMBsGA1UECxMURG9tYWluIFZhbGlkYXRlZCBTU0wxHTAbBgNVBAMTFFRy
+dXN0QXNpYSBUTFMgUlNBIENBMB4XDTE5MTExNTAwMDAwMFoXDTIwMTExNDEyMDAw
+MFowFTETMBEGA1UEAwwKKi5jc2hucy5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKM6hMns2EFP+VAU4NMWG1aCsEIQvl2iLrGvOc7QZrQIV1MQrJMP
+4kV1khJgF0wnPmsJ6BSvDwYGU3inQXcy8PIJv3pMoYcxOvwYpYsRntcFZFGJYQS8
+JTM/ys1Ko0m9nzWP4pxzDxrvlfClmR52nmwQYp8OsAEto169AZXUI87rqlKlveeN
+j3FhLseGncT8II0GihMVvienSr0aNQ8Y06SYRNxGhaIzw2VF7rp31Q/ZnpCLK1Sa
+2fk9VpwEJV0cR7QM0P5Z7EkYMcejJ8XG7sXRvBpMm1n5yC/VVZgujtqvWQ9Q2/dD
+0XS1+bxpBrzxYp61/hUYETw9vhuBx40fc0UCAwEAAaOCAokwggKFMB8GA1UdIwQY
+MBaAFH/TmfOgRw4xAFZWIo63zJ7dygGKMB0GA1UdDgQWBBTgnmzW2cbTFAnLOBC/
+e64xWxvRZjAfBgNVHREEGDAWggoqLmNzaG5zLmNugghjc2hucy5jbjAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEwGA1UdIARF
+MEMwNwYJYIZIAYb9bAECMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwCAYGZ4EMAQIBMIGSBggrBgEFBQcBAQSBhTCBgjA0BggrBgEF
+BQcwAYYoaHR0cDovL3N0YXR1c2UuZGlnaXRhbGNlcnR2YWxpZGF0aW9uLmNvbTBK
+BggrBgEFBQcwAoY+aHR0cDovL2NhY2VydHMuZGlnaXRhbGNlcnR2YWxpZGF0aW9u
+LmNvbS9UcnVzdEFzaWFUTFNSU0FDQS5jcnQwCQYDVR0TBAIwADCCAQMGCisGAQQB
+1nkCBAIEgfQEgfEA7wB1ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGF
+AAABbm2FnuEAAAQDAEYwRAIgJtTUx92/s2BIVmRQIOSV12QAX2hdVcaROY2LQBxs
+bh4CID43P5mMxVjQoXDvt6BQ77BqU1QuKk7gUo2ZyU6UqetFAHYAXqdz+d9WwOe1
+Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFubYWKeQAABAMARzBFAiB7X4J4Yb+/
+9wK1chgOYJg5NKimYbBeKsW9rA4CbKa7RAIhAKFngHdC5fqEkGcVjsFZt8b3x08I
+4NjS3oWkrQkkT8jrMA0GCSqGSIb3DQEBCwUAA4IBAQBoXMT+eZh9dsmeMGqpvaqc
+UEffaOHAnrES6PqznHtRgR/xFe+dZ3ngbk83bxmx5mdYSSxoVXcAeaG1QUawkWNU
+6MVypDH/ybfQr6MYQq8cgH0lFrFFx6+D2xyPviX1/VxYslLM401DeLYZnnc4qg9M
++FmJENgkjODj3ZgWbZ7iggbarDYcrB8Vwg9ahbneBQrcPEG28hrq9M9miLSZknzf
+VdClhx9LkY5rYx13YuxGuklDchbdRkbsZrcSbkY6Daxf9wM3ASus3pGiMMw6DcWv
+Rpzwfvp7oipufFxM2TA2bbtCeNWaDbve4ao1YX1zB+/WWfr8ETRw9rk2BPqaHwxQ
+-----END CERTIFICATE-----
+",200,2026-05-08,https://cloud.cshns.cn,"CVE-2019-20372,CVE-2025-23419,CVE-2023-44487",中软好泰BMC平台,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"
+Shenzhen Tencent Computer Systems Company Limited,,"HTTP/1.1 302 Moved Temporarily
+Server: stgw
+Date: Thu, 07 May 2026 17:57:21 GMT
+Content-Type: text/html
+Content-Length: 137
+Connection: keep-alive
+Location: HTTPS://81.69.167.31/
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
+",tcp,,,上海市,北京中软好泰科技有限责任公司,,中国,bizapi.cshns.cn,"HTTP/2.0 200 OK
+Etag: ""68d2323d-0""
+Accept-Ranges: bytes
+Server: stgw
+Date: Thu, 07 May 2026 18:02:00 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 23 Sep 2025 05:38:05 GMT
+",stgw,,81.69.167.31,云厂商,否,是,腾讯,京ICP备18050968号,,80,http,上海市,,200,2026-05-08,http://bizapi.cshns.cn,-,,"{'registrant_name': '北京中软好泰科技有限责任公司', 'registrant_org': '', 'registrant_email': '18600031226@163.com', 'status': ['ok'], 'creation_date': '2018-11-14 12:55:55', 'expiry_date': '2026-11-14 12:55:55', 'updated_date': '', 'name_servers': ['dns25.hichina.com', 'dns26.hichina.com']}"

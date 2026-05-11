@@ -1,0 +1,18 @@
+db:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: "123456"
+  database: data
+  pool_size: 10
+  timeout: 30
+
+server:
+  batch_size: 5000
+  confidence_threshold: 0.85
+  cache_ttl: 300
+
+log:
+  level: INFO
+  format: "[%(asctime)s] %(levelname)s %(filename)s:%(lineno)d - %(message)s"
+  file: "logs/classifier_server_%Y%m%d.log"
