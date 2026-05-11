@@ -1,0 +1,9 @@
+{
+  "name": "webest-opencode-sdk-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@opencode-ai/sdk": "^1.14.41"
+  }
+}
