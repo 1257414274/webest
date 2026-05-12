@@ -1,0 +1,9 @@
+
+# Local sensitive files
+.env
+deploy_to_remote.py
+check_remote*.py
+.venv/
+__pycache__/
+*.pyc
+node_modules/

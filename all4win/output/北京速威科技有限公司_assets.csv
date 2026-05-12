@@ -1,0 +1,1549 @@
+﻿as_org,asset_tag,banner,base_protocol,body,cert_sha256,city,company,component,country,domain,header,header_server,icp_exception,ip,ip_tag,is_risk_protocol,is_web,isp,number,os,port,protocol,province,ssl_certificate,status_code,updated_at,url,vul_list,web_title,whois
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 200 OK
+Date: Sun, 10 May 2026 02:33:46 GMT
+Content-Length: 0
+
+",tcp,,,北京市,北京速威科技有限公司,,中国,datacenter.v2.speedpower.net.cn,"HTTP/1.1 200 OK
+Date: Sun, 10 May 2026 02:34:08 GMT
+Content-Length: 0
+",,,39.104.205.192,云厂商,否,是,阿里云,京ICP备19004021号,,11000,http,北京市,,200,2026-05-10,http://datacenter.v2.speedpower.net.cn:11000,-,,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 200 OK
+Date: Sun, 10 May 2026 02:33:46 GMT
+Content-Length: 0
+
+",tcp,,,北京市,北京速威科技有限公司,,中国,agents.v2.speedpower.net.cn,"HTTP/1.1 200 OK
+Date: Sun, 10 May 2026 02:34:10 GMT
+Content-Length: 0
+",,,39.104.205.192,云厂商,否,是,阿里云,京ICP备19004021号,,11000,http,北京市,,200,2026-05-10,http://agents.v2.speedpower.net.cn:11000,-,,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 401 Unauthorized
+Server: Microsoft-IIS/10.0
+WWW-Authenticate: Digest qop=\""auth\"",algorithm=MD5-sess,nonce=\""+Upgraded+v180185cf03f1c48ffcf985dc5f393c36fcd00c347e3dddc018fca4a6d5af556c9817de1f53724f28eced0186efb4e31d1714e3f0ac9c1bdcd\"",charset=utf-8,realm=\""Digest\""
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+Date: Thu, 07 May 2026 05:35:14 GMT
+Content-Length: 0
+
+",tcp,"<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+    <meta charset=""utf-8"">
+    <meta name=""viewport"" content=""width=device-width"">
+    <title>Web API Help Page</title>
+    <link href=""/Content/css?v=fd5y8-7ZPYUJ8STqdssF29NWglxw9qUJxJR2urhcAhk1"" rel=""stylesheet"">
+
+    <script src=""/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1""></script>
+
+</head>
+<body>
+    <div class=""navbar navbar-inverse navbar-fixed-top"">
+        <div class=""container"">
+            <div class=""navbar-header"">
+                <button type=""button"" class=""navbar-toggle"" data-toggle=""collapse"" data-target="".navbar-collapse"">
+                    <span class=""icon-bar""></span>
+                    <span class=""icon-bar""></span>
+                    <span class=""icon-bar""></span>
+                </button>
+                <a class=""navbar-brand"" href=""/"">公共调用日志服务中间件</a>
+            </div>
+            <div class=""navbar-collapse collapse"">
+                <ul class=""nav navbar-nav"">
+                    <li><a href=""/Help"">接口列表</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class=""container body-content"">
+        
+
+<link type=""text/css"" href=""/Areas/HelpPage/HelpPage.css"" rel=""stylesheet"">
+<header class=""help-page"">
+    <div class=""content-wrapper"">
+        <div class=""float-left"">
+            <h1>Web API Help Page</h1>
+        </div>
+    </div>
+</header>
+<div id=""body"" class=""help-page"">
+    <section class=""featured"">
+        <div class=""content-wrapper"">
+            
+        </div>
+    </section>
+    <section class=""content-wrapper main-content clear-fix"">
+
+
+<h2 id=""Invoke"">Invoke</h2>
+    <p>日志调用控制器</p>
+<table class=""help-page-table"">
+    <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddOrderRemark-Creater"">POST Api/Invoke/AddOrderRemark/{Creater}</a></td>
+            <td class=""api-documentation"">
+                <p>添加订单日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddPaymentRecord"">POST Api/Invoke/AddPaymentRecord</a></td>
+            <td class=""api-documentation"">
+                <p>添加支付记录</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddPlatformLog"">POST Api/Invoke/AddPlatformLog</a></td>
+            <td class=""api-documentation"">
+                <p>添加平台交互日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddOperationLog"">POST Api/Invoke/AddOperationLog</a></td>
+            <td class=""api-documentation"">
+                <p>添加操作日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddChannelVerifyLog"">POST Api/Invoke/AddChannelVerifyLog</a></td>
+            <td class=""api-documentation"">
+                <p>添加运价直连校验日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddChannelNotice"">POST Api/Invoke/AddChannelNotice</a></td>
+            <td class=""api-documentation"">
+                <p>添加渠道通知日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-AddErrorLog"">POST Api/Invoke/AddErrorLog</a></td>
+            <td class=""api-documentation"">
+                <p>添加系统错误日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-RebootService-Token"">GET Api/Invoke/RebootService/{Token}</a></td>
+            <td class=""api-documentation"">
+                <p>重新初始化服务</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-RebootService"">GET Api/Invoke/RebootService</a></td>
+            <td class=""api-documentation"">
+                <p>重新初始化服务</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id=""Service"">Service</h2>
+    <p>日志查询控制器</p>
+<table class=""help-page-table"">
+    <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-AddOrderRemark"">POST Api/Service/AddOrderRemark</a></td>
+            <td class=""api-documentation"">
+                <p>添加订单日志</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-GetOrderRemarks-OrderId"">GET Api/Service/GetOrderRemarks/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>订单记录日志获取</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-GetPlatformLogs-OrderId"">GET Api/Service/GetPlatformLogs/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>平台交互日志获取</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-GetChannelNotices-SiteId"">POST Api/Service/GetChannelNotices/{SiteId}</a></td>
+            <td class=""api-documentation"">
+                <p>平台通知日志获取</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-GetChannelNotices-PageNumber-PageSize"">POST Api/Service/GetChannelNotices/{PageNumber}/{PageSize}</a></td>
+            <td class=""api-documentation"">
+                <p>通知日志记录检索</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-GetPaymentRecords-PageNumber-PageSize"">POST Api/Service/GetPaymentRecords/{PageNumber}/{PageSize}</a></td>
+            <td class=""api-documentation"">
+                <p>支付记录检索</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-ExportPaymentRecords"">POST Api/Service/ExportPaymentRecords</a></td>
+            <td class=""api-documentation"">
+                <p>导出支付记录</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-GetOperationLogs-PageNumber-PageSize"">POST Api/Service/GetOperationLogs/{PageNumber}/{PageSize}</a></td>
+            <td class=""api-documentation"">
+                <p>操作日志记录检索</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-GetChannelVerifyLogs-PageNumber-PageSize"">POST Api/Service/GetChannelVerifyLogs/{PageNumber}/{PageSize}</a></td>
+            <td class=""api-documentation"">
+                <p>校验日志记录检索</p>
+            </td>
+        </tr>
+    </tbody>
+</table>    </section>
+</div>
+
+        <hr>
+        <footer>
+            <p>© 2026 By SpeedPower</p>
+        </footer>
+    </div>
+
+    <script src=""/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41""></script>
+
+    <script src=""/bundles/bootstrap?v=Rc0g6GDBha0U2Ue5txisObdTUK1i4R1sOhOsbTe7GyM1""></script>
+
+    
+
+
+</body>",,北京市,北京速威科技有限公司,"[{""name"": ""IIS"", ""version"": """"}, {""name"": ""jQuery"", ""version"": """"}, {""name"": ""Windows Server"", ""version"": """"}, {""name"": ""Microsoft ASP.NET"", ""version"": ""4.0.30319""}]",中国,logs.v3.speedpower.net.cn,"HTTP/1.1 200 OK
+X-Aspnet-Version: 4.0.30319
+X-Aspnetmvc-Version: 5.2
+X-Powered-By: ASP.NET
+Cache-Control: private
+Content-Length: 7605
+Content-Type: text/html; charset=utf-8
+Date: Thu, 07 May 2026 05:38:22 GMT
+Server: Microsoft-IIS/10.0
+",Microsoft-IIS/10.0,['页面无备案号'],39.99.33.207,云厂商,否,是,阿里云,京ICP备19004021号,Windows,80,http,北京市,,200,2026-05-10,http://logs.v3.speedpower.net.cn,-,Web API Help Page,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 401 Unauthorized
+Server: Microsoft-IIS/10.0
+WWW-Authenticate: Digest qop=\""auth\"",algorithm=MD5-sess,nonce=\""+Upgraded+v16e9c70995cffb6f1cae46391c67746b057779be3efdddc01d35bf947566524e6a745cce77a66875bfe89854b7efb29324232ede56dc56b6b\"",charset=utf-8,realm=\""Digest\""
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+Date: Thu, 07 May 2026 07:05:29 GMT
+Content-Length: 0
+
+",tcp,"<head><meta charset=""utf-8""><meta http-equiv=""X-UA-Compatible"" content=""IE=edge""><meta http-equiv=""Access-Control-Allow-Origin"" content=""*""><link rel=""icon"" href=""favicon.ico""><meta http-equiv=""X- Frame-Options"" content=""deny""><title>速威科技 - 系统管理平台</title><script src=""https://cdn.bootcss.com/jquery/3.4.1/jquery.js""></script><link href=""app.0.0.0.1.1638527943409.js"" rel=""preload"" as=""script""><link href=""chunk-vendors.0.0.0.1.1638527943409.js"" rel=""preload"" as=""script""><link href=""css/app.4eba3feb.css"" rel=""preload"" as=""style""><link href=""css/chunk-vendors.4dc35c53.css"" rel=""preload"" as=""style""><link href=""css/chunk-vendors.4dc35c53.css"" rel=""stylesheet""><link href=""css/app.4eba3feb.css"" rel=""stylesheet""></head><body><noscript><strong>We're sorry but project doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=""app""><div id=""app""><div class=""login""><div class=""logo animated bounceInRight""></div><div class=""loginForm""><h5>欢迎登录速威</h5><form class=""el-form demo-ruleForm""><div class=""el-form-item el-form-item--feedback is-required""><!----><div class=""el-form-item__content""><em>请输入您的账号</em><strong><div class=""el-input el-input--suffix""><!----><input type=""text"" autocomplete=""off"" placeholder=""请输入您的账号"" class=""el-input__inner""><!----><!----><!----><!----></div></strong><!----></div></div><div class=""el-form-item el-form-item--feedback is-required"" style=""margin-top: 40px;""><!----><div class=""el-form-item__content""><em>请输入您的密码</em><strong><div class=""el-input el-input--suffix""><!----><input type=""password"" autocomplete=""off"" placeholder=""请输入您的密码"" class=""el-input__inner""><!----><span class=""el-input__suffix""><span class=""el-input__suffix-inner""><!----><!----><!----><!----></span><!----></span><!----><!----></div></strong><!----></div></div><div class=""el-form-item el-form-item--feedback"" style=""margin-top: 60px;""><!----><div class=""el-form-item__content""><button type=""button"" class=""el-button el-button--primary"" id=""loginBtnID"" style=""width: 400px; height: 50px;""><!----><!----><span>登录</span></button><!----></div></div></form></div><!----></div></div></div><script src=""chunk-vendors.0.0.0.1.1638527943409.js""></script><script src=""app.0.0.0.1.1638527943409.js""></script></body>",,北京市,北京速威科技有限公司,,中国,agents.v2.speedpower.net.cn,"HTTP/1.1 200 OK
+Content-Length: 1008
+Content-Type: text/html
+Date: Tue, 05 May 2026 10:12:54 GMT
+Etag: ""06c914032e8d71:0""
+Last-Modified: Fri, 03 Dec 2021 10:40:56 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Accept-Ranges: bytes
+",Microsoft-IIS/10.0,['页面无备案号'],39.104.205.192,云厂商,否,是,阿里云,京ICP备19004021号,Windows,80,http,北京市,,200,2026-05-08,http://agents.v2.speedpower.net.cn,CVE-2020-23064,速威科技 - 系统管理平台,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 200 OK
+Date: Tue, 05 May 2026 15:13:11 GMT
+Content-Length: 0
+
+",tcp,,cde3ff3e8177ddacfb6b571b004728ce78d25a982cbb1365b4f09946a0e294c0,北京市,北京速威科技有限公司,,中国,channel.v3.speedpower.net.cn,"HTTP/1.1 200 OK
+Content-Length: 0
+Date: Tue, 05 May 2026 15:14:35 GMT
+",,,39.104.129.219,云厂商,否,是,阿里云,京ICP备19004021号,,443,https,北京市,"Subject:
+  Common Name:          channel.v3.speedpower.net.cn
+
+Issuer:
+  Common Name:          Encryption Everywhere DV TLS CA - G2
+  Organization:         DigiCert Inc
+  Organizational Unit:  www.digicert.com
+  Country:              US
+
+Validity Period
+  Not Before:  2025-06-23 08:00:00 +0800 CST
+  Not After:   2026-06-23 07:59:59 +0800 CST
+
+Serial: 0C 1C D6 2F 70 58 9B F4 D7 81 81 7F BA 09 80 75
+Version: 3
+Signature:
+  Algorithm: SHA-256 with RSA
+
+Public Key:
+  Algorithm: RSA
+  Public Exponent: 65537
+  Key Size: 2048
+  Usage:
+    - Digital Signature
+    - Key Encipherment
+
+Extension: Subject Alternative Name
+  - DNS: channel.v3.speedpower.net.cn
+  - DNS: www.channel.v3.speedpower.net.cn
+
+Extension: Key Usage
+  - SSL/TLS Web Server Authentication
+  - SSL/TLS Web Client Authentication
+
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgIQDBzWL3BYm/TXgYF/ugmAdTANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzIwHhcNMjUwNjIzMDAwMDAwWhcNMjYwNjIyMjM1OTU5WjAn
+MSUwIwYDVQQDExxjaGFubmVsLnYzLnNwZWVkcG93ZXIubmV0LmNuMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl0hxEdz2aFqWNrM9ZMoJsa8XooQOivhN
+ZuBQ9oCtUUt0OBIkEj1HIowL2AglXuSuX9THGV5ooVq7z6B60eOWYD5qlH/d68eW
+pYRAa0XNR4Xn0J6/5oSjPpKSjnFHkywPPuwqrptPx9xik1zW5SVKIs/jOd2qKB1/
+7bi6lC8p9qqGIo/oSHB6uEUq6FRKUhHCs51Wou7k2tFNv9IFThO6irelLW9Yk9wl
+yzUnT5lgDWhq5QuJxmGqWRBMK9B89G7O3GrQTNCUcP2Pqt28zz1plFnpFgDE4bKS
+bhC6hfAhqlJPXUxSMULEAobv1Z86PlpVMrjKfN7KZS2ppEM7gjPREQIDAQABo4ID
+EDCCAwwwHwYDVR0jBBgwFoAUeN+RkF/u3qz2xXXr1UxVU+8kSrYwHQYDVR0OBBYE
+FFK3GiQIxMeRi3k8G2MNhYRSSh4UMEkGA1UdEQRCMECCHGNoYW5uZWwudjMuc3Bl
+ZWRwb3dlci5uZXQuY26CIHd3dy5jaGFubmVsLnYzLnNwZWVkcG93ZXIubmV0LmNu
+MD4GA1UdIAQ3MDUwMwYGZ4EMAQIBMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cu
+ZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMIGABggrBgEFBQcBAQR0MHIwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+aHR0cDovL2NhY2Vy
+dHMuZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJlRFZUTFNDQS1HMi5j
+cnQwDAYDVR0TAQH/BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYAlpdk
+v1VYl633Q4doNwhCd+nwOtX2pPM2bkakPw/KqcYAAAGXnDAodwAABAMARzBFAiEA
+o02gdKqxenooNKg83XsKR0AnW9EZeX+7WcDThwBXkUACIBCeVALcw3GDU54yxdZF
+ZbvA7J/Ew+MQLXhUL0NOZ7vmAHYAZBHEbKQS7KeJHKICLgC8q08oB9QeNSer6v7V
+A8l9zfAAAAGXnDAofQAABAMARzBFAiEA5p4sbAhBsSDs7qpoPQWo+FDTGfwSuelv
+9I+wKHiOANQCIBhqAHxFtEucwLGwXbPpQWrCFbTEakGH/ka5P4b/WQIvAHUASZyb
+ad4dfOz8Nt7Nh2SmuFuvCoeAGdFVUvvp6ynd+MMAAAGXnDAolAAABAMARjBEAiBw
+svMoQrvCIVLVRO4bN7BXvMQQScmSWV1B4RqNIxUANAIgYsNS1dVcEG53nEIBuLyw
+zxnlVmeYfz25oba9JlbC0DgwDQYJKoZIhvcNAQELBQADggEBAORdira/q9qO3WlP
+I8PgrPR5pv/rF0bC0vBDNy4YcZ49Vy5Hv+z8JGWOh8vhgX/tcjXV7DyzikuLkxhG
+bkKj+f7Q1KxpPydUDambVii20yf1y3lBEJMfd73BEu4M8myas1lkk8Qs0PvYGNkh
+VCq7AyiiJAoxmCXv+i403ele9l13FT+UzHXvlcFQ3VftunxwqUTL1bnIEG4HVZg9
+W4kwNePmd2pz95ObuOySzdEJMqEIvlI8VpxbT0RqEk1Cxf6kujXIfpvcFDYGZUFm
+SrtS8YCCIIgwUNa7eilIeMoOwigCYOR21MfDy4QilsfFkxYyPUClIJJr1hylbWdi
+KNgctP4=
+-----END CERTIFICATE-----
+",200,2026-05-08,https://channel.v3.speedpower.net.cn,-,,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 May 2026 05:51:21 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 447
+Last-Modified: Mon, 26 May 2025 13:00:20 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: \""683465e4-1bf\""
+Accept-Ranges: bytes
+
+<!doctype html>
+<html lang=\""en\"">
+  <head>
+    <meta charset=\""UTF-8\"" />
+    <link rel=\""icon\"" type=\""image/svg+xml\"" href=\""/vite.svg\"" />
+    <meta name=\""viewport\"" content=\""width=device-width, initial-scale=1.0\"" />
+    <title></title>
+    <script type=\""module\"" crossorigin src=\""/assets/index-BuNTCAy6.js\""></script>
+    <link rel=\""stylesheet\"" crossorigin href=\""/assets/index-B4WdJBvG.css\"">
+  </head>
+  <body>
+    <div id=\""root\""></div>
+  </body>
+</html>
+",tcp,"<head>
+    <meta charset=""UTF-8"">
+    <link rel=""icon"" type=""image/svg+xml"" href=""/vite.svg"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>StockScanner</title>
+    <script type=""module"" crossorigin="""" src=""/assets/index-6DodR2NY.js""></script>
+    <link rel=""stylesheet"" crossorigin="""" href=""/assets/index-C_08NOyJ.css"">
+  </head>
+  <body>
+    <div id=""app""><div class=""fixed top-0 left-5 flex-col overflow-hidden z-50""></div>  <div class=""flex h-screen relative select-none""><div class=""h-screen w-1/4 max-w-2xl min-w-96 flex flex-col""><div class=""flex items-center text-center text-sm text-white""><div class=""w-32"">名称代码</div> <div class=""w-24 cursor-pointer"" data-title=""price"">最新价</div> <div class=""w-24 cursor-pointer"" data-title=""changePercent"">涨跌幅</div> <div class=""w-24""><div class=""w-24 cursor-pointer"" data-title=""volume"">成交股</div> <hr class=""mx-1"">
+            流通股</div> <div class=""w-24""><div class=""w-24 cursor-pointer"" data-title=""turnover"">成交额</div> <hr class=""mx-1"">
+            流通值
+            <svg xmlns=""http://www.w3.org/2000/svg"" width=""24"" height=""24"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""2"" stroke-linecap=""round"" stroke-linejoin=""round"" class=""tabler-icon tabler-icon-currency-dollar w-6 h-5 inline-block align-top""><path d=""M16.7 8a3 3 0 0 0 -2.7 -2h-4a3 3 0 0 0 0 6h4a3 3 0 0 1 0 6h-4a3 3 0 0 1 -2.7 -2""></path><path d=""M12 3v3m0 12v3""></path></svg></div> <div class=""w-6"">新闻</div> <div class=""w-6"">风险</div> <div class=""w-6 cursor-pointer"" data-title=""alertTimes"">次数</div></div> <div class=""text-center text-sm text-white bg-black"">默认</div> <div class=""flex-grow overflow-y-auto min-h-96 hide-scrollbar svelte-1e2jvd5"" data-list-name=""默认"" style=""flex-grow: 1;""></div> <div class=""text-center text-sm text-white bg-black"">其他</div> <div class=""flex-grow overflow-y-auto min-h-96 hide-scrollbar svelte-1e2jvd5"" data-list-name=""其他"" style=""flex-grow: 2;""></div> <div class=""w-40 rounded border divide-y text-left text-white text-sm bg-black z-20"" style=""position: absolute; top: 0px; left: 0px; display: none;""><div class=""cursor-pointer px-6 py-2"">移出 </div></div></div> <div class=""flex flex-col w-3/4""><div class=""h-10 relative z-20""><div class=""absolute left-0 w-1/2 h-full overflow-y-auto hide-scrollbar bg-base-100 hover:h-96 svelte-pznad1""></div> <div class=""absolute right-32 h-full w-32 text-white text-right""><div class=""h-1/2""><input class=""h-full w-24 text-right inline-block align-top bg-transparent"" type=""text""> <svg xmlns=""http://www.w3.org/2000/svg"" width=""24"" height=""24"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""2"" stroke-linecap=""round"" stroke-linejoin=""round"" class=""tabler-icon tabler-icon-currency-dollar w-6 h-full inline-block align-top""><path d=""M16.7 8a3 3 0 0 0 -2.7 -2h-4a3 3 0 0 0 0 6h4a3 3 0 0 1 0 6h-4a3 3 0 0 1 -2.7 -2""></path><path d=""M12 3v3m0 12v3""></path></svg></div> <div class=""h-1/2""><span class=""h-full inline-block align-top"">0</span> <span class=""w-6 h-full inline-block align-top pr-1"">股</span></div></div> <div class=""absolute right-0 h-full w-32""><iframe src=""/time-widget.html"" title=""纽约时间"" height=""100%"" width=""100%""></iframe> <div class=""absolute top-0 left-0 w-full h-full bg-transparent z-10""></div></div></div> <div class=""flex-grow flex flex-wrap relative""><div class=""w-1/2 h-1/2 relative""><div class=""absolute top-2 left-2 z-10""><div class=""text-black text-xl font-bold"">5M</div></div> <div class=""absolute top-1 left-16 z-10""><div class=""text-black text-2xl font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div></div><div class=""tv-lightweight-charts"" style=""overflow: hidden; direction: ltr; width: 1264px; height: 18px; user-select: none; -webkit-tap-highlight-color: transparent;""><table cellspacing=""0"" style=""height: 18px; width: 1264px;""><tr><td style=""padding: 0px;""></td><td style=""padding: 0px; position: relative; width: 1208px; height: 2px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""height: 2px; overflow: hidden; width: 56px; left: 0px; position: relative;""><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td></tr><tr><td style=""padding: 0px;""></td><td style=""height: 28px; padding: 0px; width: 1208px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""width: 56px; height: 28px; overflow: hidden;""><canvas width=""56"" height=""28"" style=""width: 56px; height: 28px;""></canvas></div></td></tr></table></div></div> <div class=""w-1/2 h-1/2 relative""><div class=""w-40 rounded border divide-y text-left text-white text-sm bg-black z-20"" style=""position: absolute; top: 0px; left: 0px; display: none;""><div class=""cursor-pointer px-6 py-2"">查看分布图 </div></div> <div class=""absolute top-2 left-2 z-10""><div class=""text-black text-xl font-bold"">1M</div></div> <div class=""absolute top-1 left-16 z-10""><div class=""text-black text-2xl font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div></div><div class=""tv-lightweight-charts"" style=""overflow: hidden; direction: ltr; width: 1264px; height: 18px; user-select: none; -webkit-tap-highlight-color: transparent;""><table cellspacing=""0"" style=""height: 18px; width: 1264px;""><tr><td style=""padding: 0px;""></td><td style=""padding: 0px; position: relative; width: 1208px; height: 2px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""height: 2px; overflow: hidden; width: 56px; left: 0px; position: relative;""><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td></tr><tr><td style=""padding: 0px;""></td><td style=""height: 28px; padding: 0px; width: 1208px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""width: 56px; height: 28px; overflow: hidden;""><canvas width=""56"" height=""28"" style=""width: 56px; height: 28px;""></canvas></div></td></tr></table></div></div> <div class=""w-1/2 h-1/2 relative""><div class=""absolute top-2 left-2 z-10""><div class=""text-black text-xl font-bold"">15M</div></div> <div class=""absolute top-1 left-16 z-10""><div class=""text-black text-2xl font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div></div><div class=""tv-lightweight-charts"" style=""overflow: hidden; direction: ltr; width: 1264px; height: 18px; user-select: none; -webkit-tap-highlight-color: transparent;""><table cellspacing=""0"" style=""height: 18px; width: 1264px;""><tr><td style=""padding: 0px;""></td><td style=""padding: 0px; position: relative; width: 1208px; height: 2px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""height: 2px; overflow: hidden; width: 56px; left: 0px; position: relative;""><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td></tr><tr><td style=""padding: 0px;""></td><td style=""height: 28px; padding: 0px; width: 1208px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""width: 56px; height: 28px; overflow: hidden;""><canvas width=""56"" height=""28"" style=""width: 56px; height: 28px;""></canvas></div></td></tr></table></div></div> <div class=""w-1/2 h-1/2 relative""><div class=""absolute top-2 left-2 z-10""><div class=""text-black text-xl font-bold"">1D</div></div> <div class=""absolute top-1 left-16 z-10""><div class=""text-black text-2xl font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div> <div class=""text-black text-base font-normal""></div></div><div class=""tv-lightweight-charts"" style=""overflow: hidden; direction: ltr; width: 1264px; height: 18px; user-select: none; -webkit-tap-highlight-color: transparent;""><table cellspacing=""0"" style=""height: 18px; width: 1264px;""><tr><td style=""padding: 0px;""></td><td style=""padding: 0px; position: relative; width: 1208px; height: 2px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""2"" style=""width: 1208px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""height: 2px; overflow: hidden; width: 56px; left: 0px; position: relative;""><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""56"" height=""2"" style=""width: 56px; height: 2px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td></tr><tr><td style=""padding: 0px;""></td><td style=""height: 28px; padding: 0px; width: 1208px;""><div style=""width: 100%; height: 100%; position: relative; overflow: hidden;""><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 1; left: 0px; top: 0px;""></canvas><canvas width=""1208"" height=""28"" style=""width: 1208px; height: 28px; position: absolute; z-index: 2; left: 0px; top: 0px;""></canvas></div></td><td style=""padding: 0px;""><div style=""width: 56px; height: 28px; overflow: hidden;""><canvas width=""56"" height=""28"" style=""width: 56px; height: 28px;""></canvas></div></td></tr></table></div></div></div></div> <div class=""absolute w-[400px] h-[300px] min-w-[400px] min-h-[300px] bg-gray-100 border border-gray-300 shadow-lg rounded-lg overflow-hidden z-20 pb-3""><div class=""h-6 bg-gray-200 cursor-move select-none flex items-center justify-center text-sm font-medium text-gray-600"">股票交易分布图</div> <div class=""h-6 select-none flex items-center justify-center text-xs font-medium text-gray-600 relative""><span class=""absolute left-0"">流通股:0</span>
+        开始时间: 2026/05/08 04:00:00 <span class=""absolute right-20"">间距:0.01</span> <span class=""absolute right-10 cursor-pointer"">双向</span> <span class=""absolute right-1 cursor-pointer""><svg xmlns=""http://www.w3.org/2000/svg"" width=""24"" height=""24"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""2"" stroke-linecap=""round"" stroke-linejoin=""round"" class=""tabler-icon tabler-icon-refresh ""><path d=""M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4""></path><path d=""M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4""></path></svg></span></div> <div class=""relative h-6""><div class=""absolute inset-0""><div class=""bg-green-500 h-1"" style=""width: 0%;""></div> <div class=""bg-gray-300 h-1"" style=""width: 0%;""></div> <div class=""bg-red-500 h-1"" style=""width: 0%;""></div></div> <div class=""relative flex justify-between w-full px-2 -top-1 text-xs""><span>0
+                (
+                %)</span> <span>0
+                (
+                %)</span> <span>0
+                (
+                %)</span></div></div> <div class=""w-full h-[calc(100%-48px)]""></div> <div class=""absolute right-0 bottom-0 w-4 h-4 bg-gray-400 cursor-se-resize""></div></div> <button aria-controls=""pINhO8Dp3J"" aria-expanded=""false"" data-state=""closed"" id=""s86sYJTMCn"" tabindex=""0"" data-melt-dropdown-menu-trigger="""" data-menu-trigger="""" type=""button"" class=""absolute top-2 left-1 text-white""><svg xmlns=""http://www.w3.org/2000/svg"" width=""24"" height=""24"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""3"" stroke-linecap=""round"" stroke-linejoin=""round"" class=""tabler-icon tabler-icon-baseline-density-medium ""><path d=""M4 20h16""></path><path d=""M4 12h16""></path><path d=""M4 4h16""></path></svg></button>  </div></div>
+
+  
+
+<div data-portal="""" data-melt-dialog-portalled="""" data-dialog-portal=""""> </div></body>",,北京市,北京速威科技有限公司,"[{""name"": ""Svelte"", ""version"": """"}, {""name"": ""Nginx"", ""version"": """"}]",中国,stock.scanner.speedpower.net.cn,"HTTP/1.1 200 OK
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Etag: W/""67bc4a20-1e9""
+Access-Control-Allow-Headers: *
+Access-Control-Max-Age: 36000
+Content-Type: text/html; charset=utf-8
+Last-Modified: Mon, 24 Feb 2025 10:29:52 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'self' http: https: ws: wss: data: blob: 'unsafe-inline' 'unsafe-eval';
+Date: Fri, 08 May 2026 06:01:27 GMT
+Permissions-Policy: interest-cohort=()
+",nginx,['页面无备案号'],39.99.37.147,云厂商,否,是,阿里云,京ICP备19004021号,,80,http,北京市,,200,2026-05-08,http://stock.scanner.speedpower.net.cn,-,StockScanner,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 401 Unauthorized
+Server: Microsoft-IIS/10.0
+WWW-Authenticate: Digest qop=\""auth\"",algorithm=MD5-sess,nonce=\""+Upgraded+v19ba3a3b796a4ed6d2157e04a277a72373736f30483dcdc01353b0b919ebb188c217244b3ee471463779d8bf14482117b592aebab70c220ff\"",charset=utf-8,realm=\""Digest\""
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+Date: Tue, 05 May 2026 11:33:39 GMT
+Content-Length: 0
+
+",tcp,"<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+    <meta charset=""utf-8"">
+    <meta name=""viewport"" content=""width=device-width"">
+    <title>Web API Help Page</title>
+    <link href=""/Content/css?v=fd5y8-7ZPYUJ8STqdssF29NWglxw9qUJxJR2urhcAhk1"" rel=""stylesheet"">
+
+    <script src=""/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1""></script>
+
+</head>
+<body>
+    <div class=""navbar navbar-inverse navbar-fixed-top"">
+        <div class=""container"">
+            <div class=""navbar-header"">
+                <button type=""button"" class=""navbar-toggle"" data-toggle=""collapse"" data-target="".navbar-collapse"">
+                    <span class=""icon-bar""></span>
+                    <span class=""icon-bar""></span>
+                    <span class=""icon-bar""></span>
+                </button>
+                <a class=""navbar-brand"" href=""/"">订单处理子系统</a>
+            </div>
+            <div class=""navbar-collapse collapse"">
+                <ul class=""nav navbar-nav"">
+                    <li><a href=""/Help"">接口列表</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class=""container body-content"">
+        
+
+<link type=""text/css"" href=""/Areas/HelpPage/HelpPage.css"" rel=""stylesheet"">
+<header class=""help-page"">
+    <div class=""content-wrapper"">
+        <div class=""float-left"">
+            <h1>Web API Help Page</h1>
+        </div>
+    </div>
+</header>
+<div id=""body"" class=""help-page"">
+    <section class=""featured"">
+        <div class=""content-wrapper"">
+            
+        </div>
+    </section>
+    <section class=""content-wrapper main-content clear-fix"">
+
+
+<h2 id=""Invoke"">Invoke</h2>
+    <p>订单调用控制器</p>
+<table class=""help-page-table"">
+    <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByOrderExternalNumber-ExternalNumber"">GET Api/Invoke/ExportQueryOverallOrderByOrderExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByRefundExternalNumber-ExternalNumber"">GET Api/Invoke/ExportQueryOverallOrderByRefundExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于退票订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByChangedExternalNumber-ExternalNumber"">GET Api/Invoke/ExportQueryOverallOrderByChangedExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于改签订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByPurchaseOrderNumber-PurchaseNumber"">GET Api/Invoke/ExportQueryOverallOrderByPurchaseOrderNumber/{PurchaseNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于采购单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByTransactionId-TransactionId"">GET Api/Invoke/ExportQueryOverallOrderByTransactionId/{TransactionId}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于订单收付款\采购单付款\采购单收付款\退票单退回\改签单收款交易流水号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallOrders"">POST Api/Invoke/ExportOverallOrders</a></td>
+            <td class=""api-documentation"">
+                <p>导出出票订单数据</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallOrdersByPayTime"">POST Api/Invoke/ExportOverallOrdersByPayTime</a></td>
+            <td class=""api-documentation"">
+                <p>导出出票订单数据(采购单支付时间)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportOverallOrderByExternalNumber-ExternalNumber"">GET Api/Invoke/ExportOverallOrderByExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePayablesByTime"">POST Api/Invoke/ExportPurchasePayablesByTime</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单付款项数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePaymentsByTime"">POST Api/Invoke/ExportPurchasePaymentsByTime</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单收付款数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallRefunds"">POST Api/Invoke/ExportOverallRefunds</a></td>
+            <td class=""api-documentation"">
+                <p>导出退票订单数据</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallChangeds"">POST Api/Invoke/ExportOverallChangeds</a></td>
+            <td class=""api-documentation"">
+                <p>导出改签订单数据</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOrderTicketReconcileds"">POST Api/Invoke/ExportOrderTicketReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出订单票号数据表(最大15天)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOrderPaymentNotReconcileds"">POST Api/Invoke/ExportOrderPaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出订单收付款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePayableNotReconcileds"">POST Api/Invoke/ExportPurchasePayableNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单付款项未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePaymentNotReconcileds"">POST Api/Invoke/ExportPurchasePaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单收付款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportRefundPaymentNotReconcileds"">POST Api/Invoke/ExportRefundPaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出退票单付款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportChangedPaymentNotReconcileds"">POST Api/Invoke/ExportChangedPaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出改签单收款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetApplicablePurchasingMember-CompanyId-ProviderCode"">GET Api/Invoke/GetApplicablePurchasingMember/{CompanyId}/{ProviderCode}</a></td>
+            <td class=""api-documentation"">
+                <p>获取一个有效适用非金融采购账户</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetApplicablePurchasingMember-CompanyId-ProviderCode-TotalPrice"">GET Api/Invoke/GetApplicablePurchasingMember/{CompanyId}/{ProviderCode}/{TotalPrice}</a></td>
+            <td class=""api-documentation"">
+                <p>获取一个有效适用金融采购账户</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetPurchaseMemberSetting-MemberId"">GET Api/Invoke/GetPurchaseMemberSetting/{MemberId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取采购账户信息</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-UpdatePurchaseMemberSetting"">POST Api/Invoke/UpdatePurchaseMemberSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新采购账户项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-SetMemberLoginFailedStatus"">POST Api/Invoke/SetMemberLoginFailedStatus</a></td>
+            <td class=""api-documentation"">
+                <p>设置采购账户状态为登录失败状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-SetMemberInsufficientStatus"">POST Api/Invoke/SetMemberInsufficientStatus</a></td>
+            <td class=""api-documentation"">
+                <p>设置采购账户状态为余额不足状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetOrderStatus-OrderId"">GET Api/Invoke/GetOrderStatus/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取当前订单最后状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetOLockedStatus-OrderId"">GET Api/Invoke/GetOLockedStatus/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取当前订单最后锁定状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-GetOPassengers"">POST Api/Invoke/GetOPassengers</a></td>
+            <td class=""api-documentation"">
+                <p>获取乘客列表(含票号,含报价)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetPassengersIsAllHaveTicket-OrderId"">GET Api/Invoke/GetPassengersIsAllHaveTicket/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取当前订单是否所有乘机人都已含有票号</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderById-OrderId"">GET Api/Invoke/GetMainOrderById/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于订单ID)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderByInternalNumber-InternalNumber"">GET Api/Invoke/GetMainOrderByInternalNumber/{InternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于内部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderByExternalNumber-ExternalNumber"">GET Api/Invoke/GetMainOrderByExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderBySettingKey-SettingKey"">GET Api/Invoke/GetMainOrderBySettingKey/{SettingKey}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于订单扩展参数Key)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderById-OrderId"">GET Api/Invoke/GetWebApiParentOrderById/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单全结构信息</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderByInternalNumber-InternalNumber"">GET Api/Invoke/GetWebApiParentOrderByInternalNumber/{InternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单全结构信息</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderByExternalNumber-ExternalNumber"">GET Api/Invoke/GetWebApiParentOrderByExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单全结构信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderBySettingKe<p>基于站点ID获取追位配置项列表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderCarrierIntactSetting"">POST Api/Service/Setting/AddOrderCarrierIntactSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加航司生单完整设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderCarrierSetting"">POST Api/Service/Setting/AddOrderCarrierSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加航司生单设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderCarrierSetting"">POST Api/Service/Setting/UpdateOrderCarrierSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新航司生单设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderCarrierSetting-SettingId"">GET Api/Service/Setting/DeleteOrderCarrierSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除航司生单设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderIntactSetting"">POST Api/Service/Setting/AddOrderProviderIntactSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单完整配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderSetting"">POST Api/Service/Setting/AddOrderProviderSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderProviderSetting"">POST Api/Service/Setting/UpdateOrderProviderSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新生单配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderProviderSetting-SettingId"">GET Api/Service/Setting/DeleteOrderProviderSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除生单配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderExpandSetting"">POST Api/Service/Setting/AddOrderProviderExpandSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单配置项扩展参数</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderProviderExpandSetting"">POST Api/Service/Setting/UpdateOrderProviderExpandSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新生单配置项扩展参数</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderProviderExpandSetting-SettingId"">GET Api/Service/Setting/DeleteOrderProviderExpandSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除生单配置项扩展参数</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderAutoPaySetting"">POST Api/Service/Setting/AddOrderProviderAutoPaySetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单配置项自动支付路由设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderProviderAutoPaySetting"">POST Api/Service/Setting/UpdateOrderProviderAutoPaySetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新生单配置项自动支付路由设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderProviderAutoPaySetting-SettingId"">GET Api/Service/Setting/DeleteOrderProviderAutoPaySetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除生单配置项自动支付路由设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderEtermVerifySetting"">POST Api/Service/Setting/AddOrderEtermVerifySetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加黑屏校验设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderEtermVerifySetting"">POST Api/Service/Setting/UpdateOrderEtermVerifySetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新黑屏校验设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderEtermVerifySetting-SettingId"">GET Api/Service/Setting/DeleteOrderEtermVerifySetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除黑屏校验设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderAutoImportSetting"">POST Api/Service/Setting/AddOrderAutoImportSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加外部订单自动导入设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderAutoImportSetting"">POST Api/Service/Setting/UpdateOrderAutoImportSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新外部订单自动导入设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderAutoImportSetting-SettingId"">GET Api/Service/Setting/DeleteOrderAutoImportSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除外部订单自动导入设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddIntactReduceSetting"">POST Api/Service/Setting/AddIntactReduceSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱完整设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduceSetting"">POST Api/Service/Setting/AddReduceSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduceSetting"">POST Api/Service/Setting/UpdateReduceSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduceSetting-SettingId"">GET Api/Service/Setting/DeleteReduceSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduceIntervalSetting"">POST Api/Service/Setting/AddReduceIntervalSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱细化时间设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduceIntervalSetting"">POST Api/Service/Setting/UpdateReduceIntervalSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱细化时间设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduceIntervalSetting-SettingId"">GET Api/Service/Setting/DeleteReduceIntervalSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱细化时间设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduceCabinsSettings"">POST Api/Service/Setting/AddReduceCabinsSettings</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱舱位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduceCabinsSetting"">POST Api/Service/Setting/UpdateReduceCabinsSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱舱位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduceCabinsSetting-SettingId"">GET Api/Service/Setting/DeleteReduceCabinsSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱舱位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduRestrictSetting"">POST Api/Service/Setting/AddReduRestrictSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱白/黑名单设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduRestrictSetting"">POST Api/Service/Setting/UpdateReduRestrictSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱白/黑名单设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduRestrictSetting-SettingId"">GET Api/Service/Setting/DeleteReduRestrictSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱白/黑名单设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddCatchSettings"">POST Api/Service/Setting/AddCatchSettings</a></td>
+            <td class=""api-documentation"">
+                <p>添加追位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateCatchSetting"">POST Api/Service/Setting/UpdateCatchSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新追位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteCatchSetting-SettingId"">GET Api/Service/Setting/DeleteCatchSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除追位设置项</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id=""Statistics"">Statistics</h2>
+    <p>订单数据统计图表控制器</p>
+<table class=""help-page-table"">
+    <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalOrderSiteNumbers"">POST Api/Service/Statistics/GetTotalOrderSiteNumbers</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期站点订单分组数量</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalOrderStatusNumbers"">POST Api/Service/Statistics/GetTotalOrderStatusNumbers</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期订单状态分组数量</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalOrderCarrierNumbers"">POST Api/Service/Statistics/GetTotalOrderCarrierNumbers</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期订单航司分组数量</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalFinances"">POST Api/Service/Statistics/GetTotalFinances</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期财务表格</p>
+            </td>
+        </tr>
+    </tbody>
+</table>    </section>
+</div>
+        <hr>
+        <footer>
+            <p>© 2026 By SpeedPower</p>
+        </footer>
+    </div>
+
+    <script src=""/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41""></script>
+
+    <script src=""/bundles/bootstrap?v=Rc0g6GDBha0U2Ue5txisObdTUK1i4R1sOhOsbTe7GyM1""></script>
+
+    
+
+</body>",,北京市,北京速威科技有限公司,"[{""name"": ""IIS"", ""version"": """"}, {""name"": ""jQuery"", ""version"": """"}, {""name"": ""Windows Server"", ""version"": """"}, {""name"": ""Microsoft ASP.NET"", ""version"": ""4.0.30319""}]",中国,orders.v3.speedpower.net.cn,"HTTP/1.1 200 OK
+X-Aspnet-Version: 4.0.30319
+X-Aspnetmvc-Version: 5.2
+X-Powered-By: ASP.NET
+Cache-Control: private
+Content-Length: 113323
+Content-Type: text/html; charset=utf-8
+Date: Tue, 05 May 2026 11:36:06 GMT
+Server: Microsoft-IIS/10.0
+",Microsoft-IIS/10.0,['页面无备案号'],39.104.204.47,云厂商,否,是,阿里云,京ICP备19004021号,Windows,80,http,北京市,,200,2026-05-08,http://orders.v3.speedpower.net.cn,-,Web API Help Page,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 401 Unauthorized
+Server: Microsoft-IIS/10.0
+WWW-Authenticate: Digest qop=\""auth\"",algorithm=MD5-sess,nonce=\""+Upgraded+v114f5a2f2a6ccc7107415093d19acc1a1cae4658a9bdedc016c69272c0c4a62506b16c3274b3d6607795f88af00500880fc1c37bb8b8e604b\"",charset=utf-8,realm=\""Digest\""
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+Date: Fri, 08 May 2026 03:34:13 GMT
+Content-Length: 0
+
+",tcp,"<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+    <meta charset=""utf-8"">
+    <meta name=""viewport"" content=""width=device-width"">
+    <title>Web API Help Page</title>
+    <link href=""/Content/css?v=fd5y8-7ZPYUJ8STqdssF29NWglxw9qUJxJR2urhcAhk1"" rel=""stylesheet"">
+
+    <script src=""/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1""></script>
+
+</head>
+<body>
+    <div class=""navbar navbar-inverse navbar-fixed-top"">
+        <div class=""container"">
+            <div class=""navbar-header"">
+                <button type=""button"" class=""navbar-toggle"" data-toggle=""collapse"" data-target="".navbar-collapse"">
+                    <span class=""icon-bar""></span>
+                    <span class=""icon-bar""></span>
+                    <span class=""icon-bar""></span>
+                </button>
+                <a class=""navbar-brand"" href=""/"">订单处理子系统</a>
+            </div>
+            <div class=""navbar-collapse collapse"">
+                <ul class=""nav navbar-nav"">
+                    <li><a href=""/Help"">接口列表</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class=""container body-content"">
+        
+
+<link type=""text/css"" href=""/Areas/HelpPage/HelpPage.css"" rel=""stylesheet"">
+<header class=""help-page"">
+    <div class=""content-wrapper"">
+        <div class=""float-left"">
+            <h1>Web API Help Page</h1>
+        </div>
+    </div>
+</header>
+<div id=""body"" class=""help-page"">
+    <section class=""featured"">
+        <div class=""content-wrapper"">
+            
+        </div>
+    </section>
+    <section class=""content-wrapper main-content clear-fix"">
+
+
+<h2 id=""Invoke"">Invoke</h2>
+    <p>订单调用控制器</p>
+<table class=""help-page-table"">
+    <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByOrderExternalNumber-ExternalNumber"">GET Api/Invoke/ExportQueryOverallOrderByOrderExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByRefundExternalNumber-ExternalNumber"">GET Api/Invoke/ExportQueryOverallOrderByRefundExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于退票订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByChangedExternalNumber-ExternalNumber"">GET Api/Invoke/ExportQueryOverallOrderByChangedExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于改签订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByPurchaseOrderNumber-PurchaseNumber"">GET Api/Invoke/ExportQueryOverallOrderByPurchaseOrderNumber/{PurchaseNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于采购单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportQueryOverallOrderByTransactionId-TransactionId"">GET Api/Invoke/ExportQueryOverallOrderByTransactionId/{TransactionId}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单财务信息(基于订单收付款\采购单付款\采购单收付款\退票单退回\改签单收款交易流水号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallOrders"">POST Api/Invoke/ExportOverallOrders</a></td>
+            <td class=""api-documentation"">
+                <p>导出出票订单数据</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallOrdersByPayTime"">POST Api/Invoke/ExportOverallOrdersByPayTime</a></td>
+            <td class=""api-documentation"">
+                <p>导出出票订单数据(采购单支付时间)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-ExportOverallOrderByExternalNumber-ExternalNumber"">GET Api/Invoke/ExportOverallOrderByExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>查询完整订单信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePayablesByTime"">POST Api/Invoke/ExportPurchasePayablesByTime</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单付款项数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePaymentsByTime"">POST Api/Invoke/ExportPurchasePaymentsByTime</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单收付款数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallRefunds"">POST Api/Invoke/ExportOverallRefunds</a></td>
+            <td class=""api-documentation"">
+                <p>导出退票订单数据</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOverallChangeds"">POST Api/Invoke/ExportOverallChangeds</a></td>
+            <td class=""api-documentation"">
+                <p>导出改签订单数据</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOrderTicketReconcileds"">POST Api/Invoke/ExportOrderTicketReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出订单票号数据表(最大15天)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportOrderPaymentNotReconcileds"">POST Api/Invoke/ExportOrderPaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出订单收付款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePayableNotReconcileds"">POST Api/Invoke/ExportPurchasePayableNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单付款项未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportPurchasePaymentNotReconcileds"">POST Api/Invoke/ExportPurchasePaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出采购单收付款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportRefundPaymentNotReconcileds"">POST Api/Invoke/ExportRefundPaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出退票单付款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-ExportChangedPaymentNotReconcileds"">POST Api/Invoke/ExportChangedPaymentNotReconcileds</a></td>
+            <td class=""api-documentation"">
+                <p>导出改签单收款未对账数据表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetApplicablePurchasingMember-CompanyId-ProviderCode"">GET Api/Invoke/GetApplicablePurchasingMember/{CompanyId}/{ProviderCode}</a></td>
+            <td class=""api-documentation"">
+                <p>获取一个有效适用非金融采购账户</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetApplicablePurchasingMember-CompanyId-ProviderCode-TotalPrice"">GET Api/Invoke/GetApplicablePurchasingMember/{CompanyId}/{ProviderCode}/{TotalPrice}</a></td>
+            <td class=""api-documentation"">
+                <p>获取一个有效适用金融采购账户</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetPurchaseMemberSetting-MemberId"">GET Api/Invoke/GetPurchaseMemberSetting/{MemberId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取采购账户信息</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-UpdatePurchaseMemberSetting"">POST Api/Invoke/UpdatePurchaseMemberSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新采购账户项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-SetMemberLoginFailedStatus"">POST Api/Invoke/SetMemberLoginFailedStatus</a></td>
+            <td class=""api-documentation"">
+                <p>设置采购账户状态为登录失败状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-SetMemberInsufficientStatus"">POST Api/Invoke/SetMemberInsufficientStatus</a></td>
+            <td class=""api-documentation"">
+                <p>设置采购账户状态为余额不足状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetOrderStatus-OrderId"">GET Api/Invoke/GetOrderStatus/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取当前订单最后状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetOLockedStatus-OrderId"">GET Api/Invoke/GetOLockedStatus/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取当前订单最后锁定状态</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Invoke-GetOPassengers"">POST Api/Invoke/GetOPassengers</a></td>
+            <td class=""api-documentation"">
+                <p>获取乘客列表(含票号,含报价)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetPassengersIsAllHaveTicket-OrderId"">GET Api/Invoke/GetPassengersIsAllHaveTicket/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取当前订单是否所有乘机人都已含有票号</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderById-OrderId"">GET Api/Invoke/GetMainOrderById/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于订单ID)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderByInternalNumber-InternalNumber"">GET Api/Invoke/GetMainOrderByInternalNumber/{InternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于内部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderByExternalNumber-ExternalNumber"">GET Api/Invoke/GetMainOrderByExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetMainOrderBySettingKey-SettingKey"">GET Api/Invoke/GetMainOrderBySettingKey/{SettingKey}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单主结点信息(基于订单扩展参数Key)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderById-OrderId"">GET Api/Invoke/GetWebApiParentOrderById/{OrderId}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单全结构信息</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderByInternalNumber-InternalNumber"">GET Api/Invoke/GetWebApiParentOrderByInternalNumber/{InternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单全结构信息</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderByExternalNumber-ExternalNumber"">GET Api/Invoke/GetWebApiParentOrderByExternalNumber/{ExternalNumber}</a></td>
+            <td class=""api-documentation"">
+                <p>获取订单全结构信息(基于外部订单号)</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Invoke-GetWebApiParentOrderBySettingKe<p>基于站点ID获取追位配置项列表</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderCarrierIntactSetting"">POST Api/Service/Setting/AddOrderCarrierIntactSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加航司生单完整设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderCarrierSetting"">POST Api/Service/Setting/AddOrderCarrierSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加航司生单设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderCarrierSetting"">POST Api/Service/Setting/UpdateOrderCarrierSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新航司生单设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderCarrierSetting-SettingId"">GET Api/Service/Setting/DeleteOrderCarrierSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除航司生单设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderIntactSetting"">POST Api/Service/Setting/AddOrderProviderIntactSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单完整配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderSetting"">POST Api/Service/Setting/AddOrderProviderSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderProviderSetting"">POST Api/Service/Setting/UpdateOrderProviderSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新生单配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderProviderSetting-SettingId"">GET Api/Service/Setting/DeleteOrderProviderSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除生单配置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderExpandSetting"">POST Api/Service/Setting/AddOrderProviderExpandSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单配置项扩展参数</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderProviderExpandSetting"">POST Api/Service/Setting/UpdateOrderProviderExpandSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新生单配置项扩展参数</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderProviderExpandSetting-SettingId"">GET Api/Service/Setting/DeleteOrderProviderExpandSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除生单配置项扩展参数</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderProviderAutoPaySetting"">POST Api/Service/Setting/AddOrderProviderAutoPaySetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加生单配置项自动支付路由设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderProviderAutoPaySetting"">POST Api/Service/Setting/UpdateOrderProviderAutoPaySetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新生单配置项自动支付路由设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderProviderAutoPaySetting-SettingId"">GET Api/Service/Setting/DeleteOrderProviderAutoPaySetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除生单配置项自动支付路由设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderEtermVerifySetting"">POST Api/Service/Setting/AddOrderEtermVerifySetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加黑屏校验设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderEtermVerifySetting"">POST Api/Service/Setting/UpdateOrderEtermVerifySetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新黑屏校验设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderEtermVerifySetting-SettingId"">GET Api/Service/Setting/DeleteOrderEtermVerifySetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除黑屏校验设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddOrderAutoImportSetting"">POST Api/Service/Setting/AddOrderAutoImportSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加外部订单自动导入设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateOrderAutoImportSetting"">POST Api/Service/Setting/UpdateOrderAutoImportSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新外部订单自动导入设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteOrderAutoImportSetting-SettingId"">GET Api/Service/Setting/DeleteOrderAutoImportSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除外部订单自动导入设置</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddIntactReduceSetting"">POST Api/Service/Setting/AddIntactReduceSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱完整设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduceSetting"">POST Api/Service/Setting/AddReduceSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduceSetting"">POST Api/Service/Setting/UpdateReduceSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduceSetting-SettingId"">GET Api/Service/Setting/DeleteReduceSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduceIntervalSetting"">POST Api/Service/Setting/AddReduceIntervalSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱细化时间设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduceIntervalSetting"">POST Api/Service/Setting/UpdateReduceIntervalSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱细化时间设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduceIntervalSetting-SettingId"">GET Api/Service/Setting/DeleteReduceIntervalSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱细化时间设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduceCabinsSettings"">POST Api/Service/Setting/AddReduceCabinsSettings</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱舱位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduceCabinsSetting"">POST Api/Service/Setting/UpdateReduceCabinsSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱舱位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduceCabinsSetting-SettingId"">GET Api/Service/Setting/DeleteReduceCabinsSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱舱位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddReduRestrictSetting"">POST Api/Service/Setting/AddReduRestrictSetting</a></td>
+            <td class=""api-documentation"">
+                <p>添加降舱白/黑名单设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateReduRestrictSetting"">POST Api/Service/Setting/UpdateReduRestrictSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新降舱白/黑名单设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteReduRestrictSetting-SettingId"">GET Api/Service/Setting/DeleteReduRestrictSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除降舱白/黑名单设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-AddCatchSettings"">POST Api/Service/Setting/AddCatchSettings</a></td>
+            <td class=""api-documentation"">
+                <p>添加追位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Setting-UpdateCatchSetting"">POST Api/Service/Setting/UpdateCatchSetting</a></td>
+            <td class=""api-documentation"">
+                <p>更新追位设置项</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/GET-Api-Service-Setting-DeleteCatchSetting-SettingId"">GET Api/Service/Setting/DeleteCatchSetting/{SettingId}</a></td>
+            <td class=""api-documentation"">
+                <p>删除追位设置项</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id=""Statistics"">Statistics</h2>
+    <p>订单数据统计图表控制器</p>
+<table class=""help-page-table"">
+    <thead>
+        <tr><th>API</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalOrderSiteNumbers"">POST Api/Service/Statistics/GetTotalOrderSiteNumbers</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期站点订单分组数量</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalOrderStatusNumbers"">POST Api/Service/Statistics/GetTotalOrderStatusNumbers</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期订单状态分组数量</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalOrderCarrierNumbers"">POST Api/Service/Statistics/GetTotalOrderCarrierNumbers</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期订单航司分组数量</p>
+            </td>
+        </tr>
+        <tr>
+            <td class=""api-name""><a href=""/Help/Api/POST-Api-Service-Statistics-GetTotalFinances"">POST Api/Service/Statistics/GetTotalFinances</a></td>
+            <td class=""api-documentation"">
+                <p>获取指定日期财务表格</p>
+            </td>
+        </tr>
+    </tbody>
+</table>    </section>
+</div>
+        <hr>
+        <footer>
+            <p>© 2026 By SpeedPower</p>
+        </footer>
+    </div>
+
+    <script src=""/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41""></script>
+
+    <script src=""/bundles/bootstrap?v=Rc0g6GDBha0U2Ue5txisObdTUK1i4R1sOhOsbTe7GyM1""></script>
+
+    
+
+</body>",,北京市,北京速威科技有限公司,"[{""name"": ""IIS"", ""version"": """"}, {""name"": ""jQuery"", ""version"": """"}, {""name"": ""Windows Server"", ""version"": """"}, {""name"": ""Microsoft ASP.NET"", ""version"": ""4.0.30319""}]",中国,orders.v3.speedpower.net.cn,"HTTP/1.1 200 OK
+Date: Fri, 08 May 2026 03:37:47 GMT
+Server: Microsoft-IIS/10.0
+X-Aspnet-Version: 4.0.30319
+X-Aspnetmvc-Version: 5.2
+X-Powered-By: ASP.NET
+Cache-Control: private
+Content-Length: 113323
+Content-Type: text/html; charset=utf-8
+",Microsoft-IIS/10.0,['页面无备案号'],39.104.208.147,云厂商,否,是,阿里云,京ICP备19004021号,Windows,80,http,北京市,,200,2026-05-08,http://orders.v3.speedpower.net.cn,-,Web API Help Page,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 401 Unauthorized
+Server: Microsoft-IIS/10.0
+WWW-Authenticate: Digest qop=\""auth\"",algorithm=MD5-sess,nonce=\""+Upgraded+v114f5a2f2a6ccc7107415093d19acc1a1cae4658a9bdedc016c69272c0c4a62506b16c3274b3d6607795f88af00500880fc1c37bb8b8e604b\"",charset=utf-8,realm=\""Digest\""
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+Date: Fri, 08 May 2026 03:34:13 GMT
+Content-Length: 0
+
+",tcp,"<head><meta charset=""utf-8""><meta http-equiv=""X-UA-Compatible"" content=""IE=edge""><meta name=""viewport"" content=""width=device-width,initial-scale=1,user-scalable=0,minimum-scale=1,maximum-scale=1""><meta http-equiv=""Access-Control-Allow-Origin"" content=""*""><meta name=""google"" content=""notranslate""><link rel=""icon"" href=""favicon.ico""><title>速威科技 - 系统管理平台</title><style>@font-face {
+      font-family: 'iconfont';  /* Project id 2541627 */
+      src: url('//at.alicdn.com/t/font_2541627_5iibrkk0jj.woff2?t=1630052469837') format('woff2'),
+           url('//at.alicdn.com/t/font_2541627_5iibrkk0jj.woff?t=1630052469837') format('woff'),
+           url('//at.alicdn.com/t/font_2541627_5iibrkk0jj.ttf?t=1630052469837') format('truetype');
+    }
+    .iconfont {
+      font-family: ""iconfont"" !important;
+      font-size: 16px;
+      font-style: normal;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    .icon {
+      width: 1em;
+      height: 1em;
+      vertical-align: -0.15em;
+      fill: currentColor;
+      overflow: hidden;
+    }</style><link href=""app.0.1.1776151420999.js"" rel=""preload"" as=""script""><link href=""chunk-vendors.0.1.1776151420999.js"" rel=""preload"" as=""script""><link href=""css/app.02a12f4d.css"" rel=""preload"" as=""style""><link href=""css/chunk-vendors.1ba26cd4.css"" rel=""preload"" as=""style""><link href=""css/chunk-vendors.1ba26cd4.css"" rel=""stylesheet""><link href=""css/app.02a12f4d.css"" rel=""stylesheet""></head><body><svg aria-hidden=""true"" style=""position: absolute; width: 0px; height: 0px; overflow: hidden;""><symbol id=""icon-hangbanguanjia"" viewBox=""0 0 1024 1024""><path d=""M1024 92.16v837.12c0 51.2-40.96 92.16-92.16 92.16H92.16c-10.24 0-17.92 0-25.6-2.56C28.16 1008.64 0 972.8 0 931.84V92.16C0 40.96 40.96 0 92.16 0h837.12C983.04 0 1024 40.96 1024 92.16z"" fill=""#3486E0""></path><path d=""M604.16 696.32c-7.68-17.92-33.28-48.64-74.24-92.16-10.24-10.24-10.24-20.48-5.12-46.08v-2.56c2.56-17.92 7.68-28.16 69.12-38.4 30.72-5.12 38.4 7.68 51.2 23.04 0 2.56 2.56 2.56 2.56 5.12 10.24 15.36 17.92 17.92 30.72 25.6 5.12 2.56 12.8 5.12 20.48 10.24 20.48 12.8 20.48 25.6 20.48 56.32v2.56c0 48.64-17.92 74.24-25.6 81.92-25.6 23.04-56.32 40.96-89.6 51.2 17.92-30.72 5.12-66.56 0-76.8zM512 235.52c43.52 0 84.48 10.24 120.32 28.16-20.48 12.8-48.64 33.28-61.44 48.64-5.12 5.12-7.68 12.8-12.8 17.92-12.8 17.92-17.92 25.6-28.16 25.6h-20.48c-20.48-2.56-48.64-2.56-56.32 20.48-5.12 15.36-7.68 56.32 12.8 76.8 2.56 2.56 2.56 10.24 2.56 17.92-2.56 10.24-7.68 15.36-10.24 15.36l-12.8-12.8c-10.24-12.8-23.04-25.6-38.4-30.72-5.12-2.56-12.8-2.56-17.92-5.12-17.92-2.56-38.4-7.68-43.52-17.92-2.56-7.68-2.56-17.92-2.56-28.16 0-12.8 0-28.16-7.68-43.52-5.12-12.8-15.36-20.48-25.6-23.04 48.64-56.32 120.32-89.6 202.24-89.6zM207.36 512c0 166.4 135.68 299.52 304.64 299.52 168.96 0 304.64-135.68 304.64-299.52 0-166.4-135.68-299.52-304.64-299.52-168.96 0-304.64 133.12-304.64 299.52z"" fill=""#1D48B6""></path><path d=""M79.36 322.56l645.12 611.84-225.28-442.88 471.04-120.32z"" fill=""#FFFFFF""></path><path d=""M491.52 519.68L657.92 844.8l-245.76-232.96-281.6-268.8 486.4 28.16 227.84 12.8-304.64 76.8-69.12 17.92z"" fill=""#023B96""></path><path d=""M616.96 371.2c-25.6 30.72-51.2 61.44-76.8 89.6-15.36 20.48-33.28 38.4-48.64 58.88-25.6 30.72-51.2 61.44-79.36 92.16l-281.6-268.8 486.4 28.16z"" fill=""#2965BC"" opacity="".63""></path><path d=""M926.72 5.12C640 343.04 353.28 680.96 66.56 1021.44 28.16 1008.64 0 972.8 0 931.84V92.16C0 40.96 40.96 0 92.16 0h821.76l12.8 5.12z"" fill=""#3E8EE4"" opacity="".17""></path></symbol><symbol id=""icon-hangbanguanjialogo"" viewBox=""0 0 1024 1024""><path d=""""></path></symbol><symbol id=""icon-hangbanguanjialogo1"" viewBox=""0 0 1024 1024""><path d=""""></path></symbol><symbol id=""icon-hangbanguanjialogo2"" viewBox=""0 0 1024 1024""><path d=""""></path></symbol><symbol id=""icon-renwu"" viewBox=""0 0 1024 1024""><path d=""M414.72 99.98H261.353v134.144h498.269V99.98H625.478V42.543H414.72z""></path><path d=""M970.287 195.817c0-40.262-19.13-59.392-57.438-57.484H797.882v134.098H223.046V138.333H108.172c-40.216-1.955-59.439 17.222-57.53 57.484v728.017c0 38.354 19.176 57.484 57.483 57.484H912.85c38.307 0 57.438-19.13 57.438-57.484V195.817zM797.882 464.012v76.66H548.771v-76.66h249.018z m-329.542-97.7l51.712 55.576-164.77 157.09h-55.53l-76.613-76.613 57.484-57.484 49.803 53.62 137.96-132.188zM280.576 674.77l49.804 53.667 61.3-57.483 53.667 53.667-59.392 55.528 49.804 47.942-53.667 53.62-51.712-49.803-49.804 53.62-57.484-57.483 47.896-47.896-47.942-47.895 57.53-57.484z m268.241 76.66h249.019v76.615H548.817V751.43z""></path></symbol><symbol id=""icon-piao"" viewBox=""0 0 1024 1024""><path d=""M385.876843 0c-4.863779 52.580008-53.39917 78.844413-87.957598 78.844413-34.558428-0.102395-83.349808-26.315603-88.213587-78.844413H135.673827C46.129101 0 0.051198 75.362971 0 131.168432v761.565349c0 83.145017 71.523146 133.011548 135.725025 131.168431H208.886496c1.023953-57.853368 51.351264-83.605796 89.032749-83.605795 37.681485 0 86.933645 25.752428 87.957598 83.605795h503.06831c87.548017 0 135.008257-41.98209 135.008257-143.763058V144.428628C1023.95341 43.313229 980.742576 0 888.945153 0H385.876843z m506.498554 321.828557H413.165201c-16.127266 0-29.182672-14.744929-29.182672-32.920102 0-18.175173 13.055406-32.920102 29.182672-32.920102h479.210196c16.127266 0 29.182672 14.744929 29.182672 32.920102 0 18.175173-13.055406 32.920102-29.182672 32.920102z m0 394.93883H413.165201c-16.127266 0-29.182672-14.744929-29.182672-32.920102 0-18.175173 13.055406-32.920102 29.182672-32.920102h479.210196c16.127266 0 29.182672 14.744929 29.182672 32.920102 0 18.175173-13.055406 32.920102-29.182672 32.920102zM153.593012 650.927183h76.796505V716.767387H153.593012v-65.840204z m0-197.469415h76.796505v65.840204H153.593012V453.457768zM153.593012 255.988353h76.796505v65.840204H153.593012V255.988353z m738.782385 263.309619H413.165201c-16.127266 0-29.182672-14.744929-29.182672-32.920102 0-18.175173 13.055406-32.920102 29.182672-32.920102h479.210196c16.127266 0 29.182672 14.744929 29.182672 32.920102 0 18.175173-13.055406 32.920102-29.182672 32.920102z""></path></symbol><symbol id=""icon-change-cover"" viewBox=""0 0 1024 1024""><path d=""M759.89462937 32v297.81346312l-93.64140937-74.24544374-104.8452975 74.24544375V32H230.48670687v959.48908875h673.7147025c48.32661 0 87.28767937-38.96106937 87.45565032-87.28651312V32H759.89462937zM32 904.20257563V32h130.762965v959.48908875H119.28767937C71.12904031 991.48908875 32 952.36121469 32 904.20257563z m894.27907687-112.94405813c7.41637875 0 14.83275844 4.943475 14.8327575 14.83275844v27.19261219c0 9.88928344-7.41637875 14.83275844-14.8327575 14.83275843h-2.47290468l-103.82814094 103.83047344c-4.94580844 4.943475-14.83275844 4.943475-19.77739969 0l-19.77739969-19.77739969c-4.94464125-4.94464125-4.94464125-14.83275844 0-19.77739969l64.275675-66.74741156H540.62619688c-9.88811625 0-14.83275844-7.41637875-14.83275844-14.83275843v-24.72087469c0-9.88928344 7.41637875-14.83275844 14.83275844-14.83275844h385.65287999z m0.42925875-138.48029156c7.41637875 0 14.83275844 7.41637875 17.30449594 12.36102094v27.19377843c0 9.88811625-7.41637875 14.83275844-14.83275844 14.83275844H543.52719312c-9.88928344 0-14.83275844-7.41637875-14.83275843-14.83275844v-27.19377843c0-9.88811625 7.41637875-14.83275844 14.83275843-14.83275844h2.47290375l103.82814094-103.82930719c4.94580844-4.94464125 14.83392469-4.94464125 19.77739969 0l19.77740063 19.77623344c4.94464125 4.94580844 4.94464125 14.83275844 0 19.77739969l-66.7474125 66.74741156h304.07270999z""></path></symbol><symbol id=""icon-rizhi"" viewBox=""0 0 1024 1024""><path d=""M612.9 997.3c-57.3-53.1-93.4-129.5-93.4-213.8 0-161.4 130.9-292.3 292.3-292.3 59.5 0 115.4 17.7 161.4 48.8V87.8c0-36.1-26.9-63-62.3-63H130.2v129.5H35.3C17.6 154.3 0.6 167 0.6 184.7v65.1c0 17.7 17 34.7 34.7 34.7h94.8v65.1H35.3C17.6 349.6 0.6 362.3 0.6 380v65.1c0 17.7 17 34.7 34.7 34.7h94.8v65.1H35.3C17.6 544.9 0.6 557.6 0.6 575.3v65.1c0 17.7 17 34.7 34.7 34.7h94.8v65.1H35.3C17.6 740.2 0.6 752.9 0.6 770.6V836c0 17.7 17 34.7 34.7 34.7h94.8v129.5h482.7v-2.9zM194.6 867.8h34.7c17.7 0 29.7-16.3 29.7-34.7V768c0-17.7-12-30.4-29.7-30.4h-34.7v-65.1h34.7c17.7 0 29.7-16.3 29.7-34.7v-65.1c0-17.7-12-30.4-29.7-30.4h-34.7v-65.1h34.7c17.7 0 29.7-16.3 29.7-34.7v-65.1c0-17.7-12-30.4-29.7-30.4h-34.7v-65.1h34.7c17.7 0 29.7-16.3 29.7-34.7V182c0-17.7-12-30.4-29.7-30.4h-34.7V86.4h129.5v843H194.6v-61.6z m0 0""></path><path d=""M1003.6 727.7h-38.9c-3.5-7.8-9.2-24.8-16.3-36.1l27.6-26.9c8.5-8.5 8.5-22.6 0-31.1l-31.1-31.1c-8.5-8.5-22.6-8.5-31.1 0L887.5 630c-12-7.1-29-12-36.1-15.6v-38.9c0-12.7-13.4-21.9-25.5-21.9h-44.6c-12.7 0-25.5 9.9-25.5 21.9v38.9c-7.8 3.5-24.8 9.2-36.1 16.3l-26.9-27.6c-8.5-8.5-22.7-8.5-31.1 0l-31.1 31.1c-8.5 8.5-8.5 22.7 0 31.1l27.6 26.2c-7.1 12-12 29-15.6 36.1h-38.9c-12.7 0-22.7 12.7-22.7 25.5v44.6c0 12.7 9.9 25.5 22.7 25.5h38.9c3.5 7.8 9.2 24.8 15.6 36.1l-27.6 26.9c-8.5 8.5-8.5 22.6 0 31.1l31.1 31.1c8.5 8.5 22.6 8.5 31.1 0l26.2-27.6c12 7.1 29 12 36.1 15.6v38.9c0 12.7 12.7 21.9 25.5 21.9h44.6c12.7 0 25.5-9.9 25.5-21.9v-38.9c7.8-3.5 24.8-9.2 36.1-16.3l26.9 27.6c8.5 8.5 22.7 8.5 31.1 0l31.1-31.1c8.5-8.5 8.5-22.7 0-31.1l-27.6-26.2c7.1-12 12-29 15.6-36.1h38.9c12.7 0 21.9-13.4 21.9-25.5v-44.6c0.8-12.7-8.4-25.4-21.1-25.4zM801.9 875.6c-55.9 0-100.5-44.6-100.5-100.5S746 674.6 801.9 674.6s100.5 44.6 100.5 100.5-44.6 100.5-100.5 100.5z m0 0""></path></symbol><symbol id=""icon-baobiao"" viewBox=""0 0 1024 1024""><path d=""M930.304 1024H93.696c-35.84 0-64.512-28.672-64.512-64.512V64.512C29.184 28.672 57.856 0 93.696 0H930.304c35.84 0 64.512 28.672 64.512 64.512v894.976c0 35.84-28.672 64.512-64.512 64.512z m0-29.696H93.696v-34.304H930.304v34.304z""></path><path d=""M188.928 654.848h450.048v64H188.928zM188.928 783.36h643.584v64H188.928zM527.872 396.8L401.408 270.848c-1.024-1.024-0.512-3.072-2.048-4.096-6.144-6.144-14.848-8.704-23.552-8.704-8.704-0.512-16.384 2.048-23.552 8.704-1.024 1.024-0.512 3.072-2.048 4.096L224.768 396.8c-12.288 12.288-12.288 31.232 0 43.52 12.288 11.776 31.744 11.776 43.52 0l108.032-107.52 108.032 107.52c12.288 11.776 31.232 11.776 43.52 0 11.776-12.288 11.776-31.744 0-43.52z"" fill=""#FFFFFF""></path><path d=""M786.432 205.312c-0.512-1.024-0.512-2.56-1.024-3.072-2.048-2.048-4.096-1.024-6.656-2.56-2.56-1.024-4.096-2.048-6.656-3.072-3.072-0.512-5.632-2.048-8.704-2.048-0.512 0-1.024 0-2.048 0.512-0.512 0-1.024-0.512-2.56-0.512h-123.904c-17.92 0-31.744 14.336-31.744 31.744s17.408 30.208 64.512 31.744h17.92l-138.24 137.728c-12.288 12.288-12.288 31.232 0 43.52 12.288 11.776 31.744 11.776 43.52 0l141.312-140.288v54.784c0 17.92 14.336 31.744 31.744 31.744 17.92 0 31.744-14.336 31.744-31.744V227.328c0-4.096-0.512-8.192-2.56-11.776-1.024-3.072-3.072-5.632-5.12-8.192-0.512-1.024-0.512-1.536-1.536-2.048z"" fill=""#FFFFFF""></path></symbol><symbol id=""icon-yinqizhilian1-copy-copy-copy-copy-copy"" viewBox=""0 0 1024 1024""><path d=""M827.12685247 131.84980294a78.85396773 78.85396773 0 0 1 78.85396774 78.82988224v729.363076a78.92622234 78.92622234 0 0 1-78.85396774 78.85396773H97.73969282a78.92622234 78.92622234 0 0 1-78.85396953-78.85396773V210.67968518a78.92622234 78.92622234 0 0 1 78.85396953-78.82988224h729.36307598z m123.19427229-123.21835776a78.85396773 78.85396773 0 0 1 78.85396773 78.85396773v729.36307599a78.92622234 78.92622234 0 0 1-78.85396773 78.85396773h-19.70145011V186.04083071a78.92622234 78.92622234 0 0 0-78.85396771-78.85396771H142.10408105v-19.70145009a78.92622234 78.92622234 0 0 1 78.85396772-78.85396773H950.34521022zM515.17920645 702.63788633a140.55948579 140.55948579 0 0 0 16.61858192-178.51729195 39.4028984 39.4028984 0 1 0-65.02923372 44.60523931 61.46466877 61.46466877 0 0 1-7.41815016 78.10733436l-115.17399978 115.17399976c-11.5848375 11.5848375-27.11959849 17.99142132-43.49733109 17.99142131-16.37773263 0-31.91249541-6.40658382-43.49733289-17.99142131a61.24790493 61.24790493 0 0 1-17.99142134-43.47324744c0-16.37773263 6.40658382-31.91249541 17.99142134-43.49733112l94.62957801-94.6295798a39.49923847 39.49923847 0 0 0-55.80471651-55.80471649l-94.62957802 94.62957803a139.42749571 139.42749571 0 0 0-41.16109809 99.30204938c0 37.57244587 14.69178933 72.80865696 41.16109809 99.3020494a139.21073184 139.21073184 0 0 0 99.30204941 41.13701264c37.57244587 0 72.80865696-14.64362017 99.30204941-41.13701264l115.19808342-115.19808344z m208.2139.02666666 58.02666667c-7.50933333 7.50933333-8.53333333 18.20444445-3.18577778 26.85155556l30.03733333 49.37955555-63.37422222 15.01866667c-9.67111111 2.16177778-16.15644445 10.69511111-16.15644445 20.36622222v81.57866666c0 9.67111111 6.48533333 18.20444445 16.15644445 20.36622223l62.23644444 15.01866667-29.01333333 48.35555555c-5.34755555 8.64711111-4.32355555 19.34222222 3.18577778 26.85155555l56.88888888 56.8888889c7.50933333 7.50933333 18.20444445 8.64711111 26.85155556 3.18577777l42.89422222-25.71377777 13.99466667 59.05066666c2.16177778 9.67111111 10.69511111 16.15644445 20.36622222 16.15644444h81.57866667c9.67111111 0 18.20444445-6.48533333 20.36622222-16.15644444l13.99466667-60.07466666 44.032 26.85155555c8.53333333 5.34755555 19.34222222 4.32355555 26.85155555-3.18577778l55.86488889-56.88888889c6.48533333-7.50933333 8.53333333-18.20444445 3.18577778-25.71377778L951.18222222 612.69333333c1.024-3.18577778 2.16177778-6.48533333 4.32355556-8.64711111l49.37955555-11.83288889c9.67111111-2.16177778 16.15644445-10.69511111 16.15644445-20.36622222v-81.57866666c1.13777778-11.15022222-5.34755555-19.68355555-14.90488889-21.84533334z m-26.85155556 85.90222222l-44.032 10.69511112c-7.50933333 2.16177778-12.85688889 7.50933333-15.01866666 13.99466666-3.18577778 8.53333333-6.48533333 17.18044445-10.69511112 24.68977778-3.18577778 6.48533333-3.18577778 15.01866667 1.024 21.504l23.66577778 38.68444444-32.19911111 33.33688889-40.84622222-24.80355555c-6.48533333-4.32355555-13.99466667-4.32355555-20.36622222-1.024-5.34755555 2.16177778-10.69511111 4.32355555-15.01866667 6.48533333-6.48533333 2.16177778-11.83288889 8.53333333-13.99466666 15.01866667l-15.01866667 55.75111111h-48.35555556l-13.99466667-59.05066667c-2.16177778-6.48533333-6.48533333-12.85688889-12.85688888-15.01866666-4.32355555-1.024-8.64711111-3.18577778-11.83288889-5.34755556-6.48533333-3.18577778-13.99466667-3.18577778-20.36622223 1.024l-42.89422222 25.71377778-33.33688888-33.33688889 25.71377777-42.89422223c4.32355555-6.48533333 4.32355555-13.99466667 1.024-20.36622222-3.18577778-5.34755555-5.34755555-11.83288889-7.50933333-17.18044444-2.16177778-6.48533333-8.64711111-11.83288889-15.01866667-13.99466667l-56.88888889-13.99466667v-48.35555555l59.05066667-13.99466667c6.48533333-2.16177778 12.85688889-6.48533333 15.01866667-12.85688888 2.16177778-5.34755555 4.32355555-10.69511111 7.50933333-16.15644445 3.18577778-6.48533333 3.18577778-15.01866667-1.024-21.504l-27.87555555-46.19377778 33.33688888-33.33688889 50.40355556 31.17511112c6.48533333 3.18577778 12.85688889 4.32355555 19.34222222 1.024l9.67111111-3.18577778h1.024c6.48533333-2.16177778 11.83288889-8.64711111 13.99466667-15.01866667l10.69511111-45.056h45.056l9.67111111 44.032c2.16177778 7.50933333 7.50933333 12.85688889 13.99466667 16.15644445 4.32355555 1.024 9.67111111 3.18577778 12.85688889 5.34755555 6.48533333 3.18577778 13.99466667 2.16177778 19.34222222-1.024L897.70666667 367.50222222l33.33688888 33.33688889-24.68977777 40.84622222c-4.32355555 6.48533333-4.32355555 15.01866667 0 21.504 4.32355555 6.48533333 7.50933333 13.99466667 9.67111111 21.504 2.16177778 6.48533333 8.64711111 11.83288889 15.01866666 13.99466667l46.19377778 10.69511111v45.056h2.048z m0 0""></path><path d=""M769.93422222 431.90044445c-59.05066667 0-107.40622222 48.35555555-107.40622222 107.40622222 0 59.05066667 48.35555555 107.40622222 107.40622222 107.40622222 59.05066667 0 107.40622222-48.35555555 107.40622223-107.40622222-0.11377778-59.05066667-47.33155555-107.40622222-107.40622223-107.40622222z m0 171.80444444c-35.38488889 0-64.39822222-29.01333333-64.39822222-64.39822222s29.01333333-64.39822222 64.39822222-64.39822222 64.39822222 29.01333333 64.39822223 64.39822222c1.024 35.38488889-27.98933333 64.39822222-64.39822223 64.39822222z m0 0""></path></symbol><symbol id=""icon-shujuku"" viewBox=""0 0 1024 1024""><path d=""M525.80883973-5.19458765l11.04629509 0.05566514a1178.13339022 1178.13339022 0 0 1 118.53180776 6.90377261l18.83423731 2.20977683 19.939773 2.76125013 19.57989136 3.11983723 9.80353833 1.71267413 19.2769694 3.67389961c162.0826643 32.78029811 275.6434451 102.90025813 279.95166847 195.05714317l0.13851558 5.44094435v579.95314567c0 94.8352847-114.83072285 167.08087657-280.09018405 200.4980875l-19.27567486 3.67260509-9.80483287 1.71267413-19.57989136 3.09265193-19.939773 2.76125013c-46.9490195 6.0208975-96.79651019 9.19639988-148.41234016 9.19639988s-101.4646152-3.17550238-148.41363466-9.19639988l-19.93847848-2.76125013-19.58118589-3.09394647c-177.46566258-30.01904798-304.55825193-102.89896359-309.0321762-200.52397828l-0.13722105-5.35938844v-579.95314567l0.13722105-5.43964981c4.30822337-92.15817955 117.86900417-162.27684503 279.95166847-195.05714317l19.2769694-3.67389961 9.80353833-1.71137959 19.58118589-3.09394647 19.93847848-2.76125013a1154.99092955 1154.99092955 0 0 1 126.40260044-9.00351368L525.80883973-5.19458765zM713.74084425 697.79147536l-19.57989136 3.09394647-19.939773 2.76125013c-46.9490195 6.01960297-96.79651019 9.19639988-148.41234016 9.19639988s-101.4646152-3.17679692-148.41363466-9.19639988l-19.93847848-2.76254468-19.58118589-3.09265192c-92.54395197-15.65873493-171.41757977-42.97219792-226.31894787-79.37073051v177.27277637c0 27.11928225 31.28899003 55.37128549 84.23042717 79.20502961l12.62174816 5.41246452c19.46985561 8.00930829 41.42522469 15.43736889 65.50622562 22.03821953l16.37720367 4.28103807a831.8625261 831.8625261 0 0 0 52.55437021 11.26766111l18.61416581 3.17550238 19.08278866 2.84410059a990.39945008 990.39945008 0 0 0 39.57532951 4.69529031l20.40839585 1.82270988 20.79546279 1.43693748 21.18252974 1.048576a1095.17290509 1095.17290509 0 0 0 86.60590491 0l21.18252974-1.048576 20.79546279-1.43693748 20.43687569-1.82270988a995.02742439 995.02742439 0 0 0 39.54684967-4.69529031l19.08278865-2.84410059L708.76981728 917.89793406c18.33713461-3.31401797 35.90142989-7.09795333 52.55437022-11.26766111l16.37720367-4.28103807c24.08229547-6.62803595 46.03766455-14.02891125 65.50752016-22.03821953l12.62045361-5.41246452c50.89736123-22.92238917 81.80187339-49.90445037 84.09320612-76.08519238l0.13851561-3.11983723v-177.29996167c-54.87547733 36.42571789-133.74910515 63.73918089-226.32024242 79.39791581z m226.32024242-355.56694345c-52.16859781 34.60430254-125.93268306 60.97793075-212.56706782 76.96806747l-13.80883975 2.43114288-19.55270605 3.09265192-19.93847847 2.76125014c-46.9490195 6.0208975-96.79780471 9.19639988-148.41363468 9.19639989-44.24213997 0-87.18585805-2.31981259-128.14116535-6.79373685L377.36801975 427.47893886l-19.939773-2.76125014-19.57989136-3.09394646c-92.54395197-15.65744039-171.41757977-42.97090338-226.32024241-79.36943597V491.90810864c0 27.1205768 31.29028457 55.37128549 84.23172172 79.20502961l12.62174815 5.41246451c19.46985561 8.00930829 41.42522469 15.43866343 65.50622563 22.03821954l16.37590912 4.28103806a831.8625261 831.8625261 0 0 0 52.55566477 11.26766112l18.6141658 3.17550238 19.08278866 2.84539512a990.39815554 990.39815554 0 0 0 39.57403496 4.69399577l20.4096904 1.82270989 20.79546279 1.43693749 21.18252974 1.048576a1095.17290509 1095.17290509 0 0 0 86.60590491 0l21.18252974-1.048576 20.79546279-1.43693749 20.43558115-1.82270989a995.03001347 995.03001347 0 0 0 39.5481442-4.69399577l19.08278866-2.84539512 18.61416581-3.17550238c18.33713461-3.31401797 35.90142989-7.09795333 52.55437021-11.26766112l16.37590914-4.28103806c24.08229547-6.62803595 46.03766455-14.02891125 65.50752016-22.03821954l12.62174815-5.41246451c50.89736123-22.92238917 81.80057885-49.90445037 84.09320612-76.08389784l0.13722106-3.12113177V342.22453191zM525.80883973 77.65586172l-10.9362593 0.05566516-16.29435323 0.27573664-16.07298718 0.524288-21.18252974 1.04987054-20.79546279 1.43693749-20.43558116 1.82141535c-8.97632837 0.88416963-17.81284661 1.87837503-26.54062364 2.98261617l-12.97904072 1.71267413-19.1112685 2.84410058-18.61416581 3.17679692a859.90093053 859.90093053 0 0 0-39.90543676 8.20219449l-12.64893345 3.03698679-16.37590913 4.30822337c-20.05110329 5.52379481-38.66397456 11.59906291-55.56546624 18.0898778l-9.94205392 3.94834173-12.62174816 5.41375906c-52.94143715 23.83244958-84.23042718 52.08445282-84.23042717 79.20502961 0 25.95937597 28.63777565 52.91295731 77.46517018 76.08389783l6.76525699 3.11983723 12.62174816 5.41375906c16.21020823 6.6837011 34.16157045 12.95185541 53.65861136 18.66853641l11.8760941 3.36968312 16.34872383 4.28103807c12.48323255 3.11983724 25.48945857 6.01960297 38.93971121 8.69929717l13.614659 2.56836394 18.61416581 3.17550238 19.08278866 2.84410059c8.58926143 1.21557143 17.31574391 2.29262729 26.18074201 3.31401798l13.3945875 1.38127232 20.40839585 1.8227099 20.79546279 1.43693748 21.18252974 1.048576a1095.17290509 1095.17290509 0 0 0 72.32844231 0.46991739l14.27875714-0.46991739 21.1812352-1.048576 20.79546279-1.43693748 20.43687569-1.8227099c8.97503383-0.88416963 17.81284661-1.8770805 26.53932911-2.98261617l12.98033525-1.71267413 19.10997396-2.84410059L708.76981728 337.94478838a859.90093053 859.90093053 0 0 0 39.90673131-8.20219448l12.64763891-3.03828134 16.37720367-4.30822336c20.04980875-5.52379481 38.66397456-11.59906291 55.56546624-18.08858326l9.94205392-3.94963627 12.62045361-5.41246452c52.94143715-23.83374412 84.23172172-52.08574736 84.23172173-79.2050296 0-25.9606705-28.63907019-52.91425185-77.46517019-76.08519239l-6.76655154-3.11983722-12.62174814-5.41375906a549.49266015 549.49266015 0 0 0-53.65861137-18.66853641l-11.87479956-3.36968312-16.35001837-4.27974353a807.35044393 807.35044393 0 0 0-38.93971121-8.69929719L708.76981728 93.5359627l-18.61416581-3.17679692-19.08278865-2.84410058a991.60984336 991.60984336 0 0 0-26.18074202-3.31401797l-13.39458749-1.38127233-20.40839585-1.82270989-20.79546279-1.43564295-21.18252974-1.048576c-9.47213653-0.38836148-19.05560336-0.63561829-28.72062609-0.77413388L525.80883973 77.65586172z""></path></symbol></svg><script src=""./font/iconfont.js""></script><noscript><strong>We're sorry but project doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=""app""><div id=""app""><div data-v-4b3b7003="""" id=""Login""><div data-v-4b3b7003="""" class=""loginform Add_Absolute_TBLR Add_Margin_AutoAuto""><p data-v-4b3b7003="""" class=""incolde""><span data-v-4b3b7003=""""></span></p><form data-v-4b3b7003="""" autocomplete=""off"" class=""ivu-form ivu-form-label-right""><div data-v-4b3b7003="""" class=""ivu-form-item ivu-form-item-required""><!----> <div class=""ivu-form-item-content"" style=""margin-left: 0px;""><div data-v-4b3b7003="""" class=""ivu-input-wrapper ivu-input-wrapper-large ivu-input-type-text""><!----> <!----> <i class=""ivu-icon ivu-icon-ios-loading ivu-load-loop ivu-input-icon ivu-input-icon-validate""></i> <input autocomplete=""off"" spellcheck=""false"" type=""text"" placeholder=""请输入用户名"" class=""ivu-input ivu-input-large ivu-input-with-prefix""> <span class=""ivu-input-prefix""><i class=""ivu-icon ivu-icon-ios-person-outline""></i></span></div> <!----></div></div><div data-v-4b3b7003="""" class=""ivu-form-item ivu-form-item-required""><!----> <div class=""ivu-form-item-content"" style=""margin-left: 0px;""><div data-v-4b3b7003="""" class=""ivu-input-wrapper ivu-input-wrapper-large ivu-input-type-password""><!----> <span class=""ivu-input-suffix""><i class=""ivu-icon ivu-icon-ios-eye-off-outline""></i></span> <i class=""ivu-icon ivu-icon-ios-loading ivu-load-loop ivu-input-icon ivu-input-icon-validate""></i> <input autocomplete=""off"" spellcheck=""false"" type=""password"" placeholder=""请输入密码"" class=""ivu-input ivu-input-large ivu-input-with-prefix""> <span class=""ivu-input-prefix""><i class=""ivu-icon ivu-icon-ios-lock-outline""></i></span></div> <!----></div></div><div data-v-4b3b7003="""" class=""ivu-form-item""><!----> <div class=""ivu-form-item-content"" style=""margin-left: 0px;""><button data-v-4b3b7003="""" type=""button"" class=""ivu-btn ivu-btn-primary ivu-btn-large ivu-btn-ghost"" style=""width: 100%; border-color: white;""><!----> <!----> <span><b data-v-4b3b7003="""" class=""iconfont icon-login Add_VAlign_Middle Add_Margin_Right_5"" style=""color: white;""></b><b data-v-4b3b7003="""" class=""Add_VAlign_Middle"" style=""color: white;"">登录</b></span></button> <!----></div></div></form></div></div></div></div><script></script><script src=""chunk-vendors.0.1.1776151420999.js""></script><script src=""app.0.1.1776151420999.js""></script></body>",,北京市,北京速威科技有限公司,,中国,console.v3.speedpower.net.cn,"HTTP/1.1 200 OK
+Etag: ""80e4f0a7dfcbdc1:0""
+Last-Modified: Tue, 14 Apr 2026 07:23:57 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Accept-Ranges: bytes
+Content-Length: 1806
+Content-Type: text/html
+Date: Wed, 06 May 2026 06:53:55 GMT
+",Microsoft-IIS/10.0,['页面无备案号'],39.104.208.147,云厂商,否,是,阿里云,京ICP备19004021号,Windows,80,http,北京市,,200,2026-05-08,http://console.v3.speedpower.net.cn,-,速威科技 - 系统管理平台,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"
+"Hangzhou Alibaba Advertising Co.,Ltd.",,"HTTP/1.1 401 Unauthorized
+Server: Microsoft-IIS/10.0
+WWW-Authenticate: Digest qop=\""auth\"",algorithm=MD5-sess,nonce=\""+Upgraded+v114f5a2f2a6ccc7107415093d19acc1a1cae4658a9bdedc016c69272c0c4a62506b16c3274b3d6607795f88af00500880fc1c37bb8b8e604b\"",charset=utf-8,realm=\""Digest\""
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+Date: Fri, 08 May 2026 03:34:13 GMT
+Content-Length: 0
+
+",tcp,"<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href=""/Help"">here</a>.</h2>
+</body></html>
+",,北京市,北京速威科技有限公司,"[{""name"": ""IIS"", ""version"": """"}, {""name"": ""Windows Server"", ""version"": """"}, {""name"": ""Microsoft ASP.NET"", ""version"": ""4.0.30319""}]",中国,agents.v3.speedpower.net.cn,"HTTP/1.1 302 Found
+X-Powered-By: ASP.NET
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-Aspnet-Version: 4.0.30319
+Date: Fri, 08 May 2026 03:34:45 GMT
+Location: /Help
+X-Aspnetmvc-Version: 5.2
+",Microsoft-IIS/10.0,['页面无备案号'],39.104.208.147,云厂商,否,是,阿里云,京ICP备19004021号,Windows,80,http,北京市,,302,2026-05-08,http://agents.v3.speedpower.net.cn,-,Object moved,"{'registrant_name': '北京速威科技有限公司', 'registrant_org': '', 'registrant_email': 'liu_585@126.com', 'status': ['ok'], 'creation_date': '2018-12-26 11:48:05', 'expiry_date': '2027-12-26 11:48:05', 'updated_date': '', 'name_servers': ['dns11.hichina.com', 'dns12.hichina.com']}"

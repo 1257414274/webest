@@ -1,0 +1,74 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: webest-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-123456}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-data}
+      TZ: Asia/Shanghai
+    command: >
+      --character-set-server=utf8mb4
+      --collation-server=utf8mb4_unicode_ci
+      --default-authentication-plugin=mysql_native_password
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p$${MYSQL_ROOT_PASSWORD} || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  app:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile.app
+    container_name: webest-app
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      TZ: Asia/Shanghai
+      APP_MODE: production
+      ENABLED_REGISTER: "true"
+      ALLOW_COMMANDS: /usr/sbin/nginx -s reload
+      DB_CONNECT_URL: mysql://root:${MYSQL_ROOT_PASSWORD:-123456}@mysql:3306/${MYSQL_DATABASE:-data}
+
+      # 供 all4win/config.py 覆盖 config.yaml 使用
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_USER: root
+      DB_PASSWORD: ${MYSQL_ROOT_PASSWORD:-123456}
+      DB_NAME: ${MYSQL_DATABASE:-data}
+    volumes:
+      - app_logs:/app/server/domain-admin-master/logs
+      - classifier_logs:/app/all4win/logs
+      - classifier_output:/app/all4win/output
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://127.0.0.1:8000/test || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 10
+
+  gateway:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile.nginx
+    container_name: webest-gateway
+    restart: unless-stopped
+    depends_on:
+      app:
+        condition: service_healthy
+    environment:
+      ACCESS_TOKEN: ${ACCESS_TOKEN:-CHANGE_ME_STRONG_TOKEN}
+    ports:
+      - "7789:80"
+
+volumes:
+  mysql_data:
+  app_logs:
+  classifier_logs:
+  classifier_output:

@@ -1,0 +1,45 @@
+2026-05-09 13:46:56 [ERROR] hunter_asset_service.py/import_csv_data:
+CSV Import Failed: Traceback (most recent call last):
+  File "D:\Users\zhangq39\Desktop\WeBest\server\domain-admin-master\domain_admin\service\hunter_asset_service.py", line 129, in import_csv_data
+    _batch_insert(batch_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "D:\Users\zhangq39\Desktop\WeBest\server\domain-admin-master\domain_admin\service\hunter_asset_service.py", line 174, in _batch_insert
+    cursor.executemany(sql, chunk)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\cursors.py", line 182, in executemany
+    return self._do_execute_many(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        q_prefix,
+        ^^^^^^^^^
+    ...<4 lines>...
+        self._get_db().encoding,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\cursors.py", line 220, in _do_execute_many
+    rows += self.execute(sql + postfix)
+            ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "D:\Users\zhangq39\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry '0' for key 'tb_hunter_asset.PRIMARY'")
+
+

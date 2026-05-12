@@ -1,0 +1,107 @@
+[2026-05-09 14:01:34,327] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 14:01:34,328] INFO hunter_asset_classifier.py:563 - 
+============================================================
+[2026-05-09 14:01:34,328] INFO hunter_asset_classifier.py:564 - [*] 资产智能分类服务端已启动
+[2026-05-09 14:01:34,328] INFO hunter_asset_classifier.py:565 - ============================================================
+[2026-05-09 14:01:52,558] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 14:01:52,559] INFO hunter_asset_classifier.py:563 - 
+============================================================
+[2026-05-09 14:01:52,559] INFO hunter_asset_classifier.py:564 - [*] 资产智能分类服务端已启动
+[2026-05-09 14:01:52,559] INFO hunter_asset_classifier.py:565 - ============================================================
+[2026-05-09 14:01:52,561] INFO hunter_asset_classifier.py:512 - 开始批量分类，预计总条数: 0
+[2026-05-09 14:01:52,595] INFO hunter_asset_classifier.py:550 - 
+[*] AI分类完成，总耗时 0.0s | 总读取: 0 | 总写入: 0
+[2026-05-09 15:10:40,809] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 15:10:40,809] INFO hunter_asset_classifier.py:563 - 
+============================================================
+[2026-05-09 15:10:40,810] INFO hunter_asset_classifier.py:564 - [*] 资产智能分类服务端已启动
+[2026-05-09 15:10:40,810] INFO hunter_asset_classifier.py:565 - ============================================================
+[2026-05-09 15:10:40,812] INFO hunter_asset_classifier.py:512 - 开始批量分类，预计总条数: 0
+[2026-05-09 15:10:40,826] INFO hunter_asset_classifier.py:550 - 
+[*] AI分类完成，总耗时 0.0s | 总读取: 0 | 总写入: 0
+[2026-05-09 15:10:52,733] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 15:10:52,734] INFO hunter_asset_classifier.py:563 - 
+============================================================
+[2026-05-09 15:10:52,734] INFO hunter_asset_classifier.py:564 - [*] 资产智能分类服务端已启动
+[2026-05-09 15:10:52,734] INFO hunter_asset_classifier.py:565 - ============================================================
+[2026-05-09 15:10:52,736] INFO hunter_asset_classifier.py:512 - 开始批量分类，预计总条数: 0
+[2026-05-09 15:10:52,753] INFO hunter_asset_classifier.py:550 - 
+[*] AI分类完成，总耗时 0.0s | 总读取: 0 | 总写入: 0
+[2026-05-09 15:17:05,495] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 15:17:05,495] INFO hunter_asset_classifier.py:563 - 
+============================================================
+[2026-05-09 15:17:05,495] INFO hunter_asset_classifier.py:564 - [*] 资产智能分类服务端已启动
+[2026-05-09 15:17:05,496] INFO hunter_asset_classifier.py:565 - ============================================================
+[2026-05-09 15:17:05,498] INFO hunter_asset_classifier.py:512 - 开始批量分类，预计总条数: 176
+[2026-05-09 15:17:05,518] INFO hunter_asset_classifier.py:409 -   [批次1] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:17:07,580] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:18:53,692] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 15:18:53,692] INFO hunter_asset_classifier.py:563 - 
+============================================================
+[2026-05-09 15:18:53,692] INFO hunter_asset_classifier.py:564 - [*] 资产智能分类服务端已启动
+[2026-05-09 15:18:53,693] INFO hunter_asset_classifier.py:565 - ============================================================
+[2026-05-09 15:18:53,695] INFO hunter_asset_classifier.py:512 - 开始批量分类，预计总条数: 176
+[2026-05-09 15:18:53,720] INFO hunter_asset_classifier.py:409 -   [批次1] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:18:55,530] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:21:15,615] INFO hunter_asset_classifier.py:409 -   [批次3] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:21:15,789] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:21:59,588] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 15:21:59,588] INFO hunter_asset_classifier.py:557 - 
+============================================================
+[2026-05-09 15:21:59,588] INFO hunter_asset_classifier.py:558 - [*] 资产智能分类服务端已启动
+[2026-05-09 15:21:59,589] INFO hunter_asset_classifier.py:559 - ============================================================
+[2026-05-09 15:21:59,591] INFO hunter_asset_classifier.py:506 - 开始批量分类，预计总条数: 170
+[2026-05-09 15:21:59,613] INFO hunter_asset_classifier.py:403 -   [批次1] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:22:01,546] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:23:13,878] INFO hunter_asset_classifier.py:409 -   [批次5] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:23:14,099] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:24:15,140] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 134.8s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://webscan.360.cn:20483",       "网站标题": "三六零云探安全监测系统",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P2-中危",       "攻击面": "安全监测系统管理入口，可能存在弱口令/默认凭据/未授权访问",       "建议操作": "尝试常见默认账号密码组合(admin/admin,360/360)，检查是否存在未授权API接口",       "备注": "标题直接显示
+[2026-05-09 15:24:15,153] INFO hunter_asset_classifier.py:403 -   [批次3] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:24:15,249] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:26:50,806] INFO hunter_asset_classifier.py:409 -   [批次7] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:26:51,046] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:27:43,573] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 208.4s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "https://srm.scm.qihu.com",       "网站标题": "欢迎登录系统",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P1-高危",       "攻击面": "登录页面暴露，可能存在弱口令/默认凭证",       "建议操作": "尝试常见弱口令（admin/admin, admin/123456），检查是否存在默认凭证",       "备注": "360供应链管理系统登录入口，域名srm.scm.qi
+[2026-05-09 15:27:43,591] INFO hunter_asset_classifier.py:403 -   [批次5] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:27:43,693] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:29:32,246] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 15:29:32,247] INFO hunter_asset_classifier.py:557 - 
+============================================================
+[2026-05-09 15:29:32,247] INFO hunter_asset_classifier.py:558 - [*] 资产智能分类服务端已启动
+[2026-05-09 15:29:32,247] INFO hunter_asset_classifier.py:559 - ============================================================
+[2026-05-09 15:29:32,250] INFO hunter_asset_classifier.py:506 - 开始批量分类，预计总条数: 286
+[2026-05-09 15:29:32,276] INFO hunter_asset_classifier.py:403 -   [批次1] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:29:34,547] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:30:21,643] INFO hunter_asset_classifier.py:409 -   [批次9] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:30:21,845] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:31:34,540] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 230.9s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://console.v3.speedpower.net.cn",       "网站标题": "速威科技 - 系统管理平台",       "风险标签": "管理后台",       "优先级": "P1-高危",       "攻击面": "管理后台登录入口，可能存在弱口令或未授权访问",       "建议操作": "尝试常见弱口令组合(admin/admin, admin/123456等)；检查是否可直接访问后台功能",       "备注": "速威科技系统管理平台
+[2026-05-09 15:31:34,562] INFO hunter_asset_classifier.py:403 -   [批次7] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:31:34,954] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:31:58,911] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 145.5s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://webscan.360.cn:9950",       "网站标题": "三六零云探安全监测系统",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P1-高危",       "攻击面": "安全监测系统管理后台，存在弱口令/未授权访问风险",       "建议操作": "尝试默认密码/常见弱口令登录；测试是否存在未授权接口如查看告警、系统配置",       "备注": "标题和路径显示为安全监测系统，监控面板类管理后台
+[2026-05-09 15:31:58,922] INFO hunter_asset_classifier.py:403 -   [批次3] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:31:59,034] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:33:48,539] INFO hunter_asset_classifier.py:409 -   [批次11] 发送 26 条资产到DeepSeek...
+[2026-05-09 15:33:48,783] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:35:51,006] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 256.4s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://console.sv4.speedpower.net.cn:11000",       "网站标题": "",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P2-中危",       "攻击面": "域名含console，疑似管理控制台入口，可能需认证，存在弱口令风险",       "建议操作": "尝试常见后台路径或默认凭证",       "备注": "空标题，端口11000非标准，console域名暗示后台"   
+[2026-05-09 15:35:51,024] INFO hunter_asset_classifier.py:403 -   [批次9] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:35:51,123] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:37:23,123] INFO hunter_asset_classifier.py:409 -   [批次6] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:37:23,289] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:37:56,027] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 357.1s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://squery.v3.speedpower.net.cn",       "网站标题": "Object moved",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P1-高危",       "攻击面": "可能为内部数据查询系统登录入口，存在弱口令或未授权访问风险",       "建议操作": "访问该URL，观察是否302重定向至登录页面，尝试常见弱口令(admin/admin, test/test等)",     
+[2026-05-09 15:37:56,046] INFO hunter_asset_classifier.py:403 -   [批次5] 发送 30 条资产到DeepSeek...
+[2026-05-09 15:37:56,163] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:39:09,557] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 198.5s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://console.v3.speedpower.net.cn",       "网站标题": "速威科技 - 系统管理平台",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P1-高危",       "攻击面": "弱口令/未授权访问/登录绕过",       "建议操作": "尝试常见弱口令登录，如admin/admin123；检查是否存在未授权访问路径",       "备注": "速威科技系统管理平台，标题含'系统管理平
+[2026-05-09 15:39:09,573] INFO hunter_asset_classifier.py:403 -   [批次11] 发送 20 条资产到DeepSeek...
+[2026-05-09 15:39:09,680] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 15:42:20,110] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 264.1s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://squery.v3.speedpower.net.cn:880",       "网站标题": "Web API Help Page",       "风险标签": "管理后台",       "优先级": "P1-高危",       "攻击面": "ASP.NET Web API帮助页暴露所有API接口及参数，可枚举未授权方法",       "建议操作": "访问页面查看所有API定义，寻找未授权接口",       "备注": "Web API帮助页暴露API文
+[2026-05-09 16:54:01,367] INFO db_driver.py:111 - Database tables initialized.
+[2026-05-09 16:54:01,368] INFO hunter_asset_classifier.py:557 - 
+============================================================
+[2026-05-09 16:54:01,368] INFO hunter_asset_classifier.py:558 - [*] 资产智能分类服务端已启动
+[2026-05-09 16:54:01,369] INFO hunter_asset_classifier.py:559 - ============================================================
+[2026-05-09 16:54:01,371] INFO hunter_asset_classifier.py:506 - 开始批量分类，预计总条数: 10
+[2026-05-09 16:54:01,390] INFO hunter_asset_classifier.py:403 -   [批次1] 发送 10 条资产到DeepSeek...
+[2026-05-09 16:54:03,181] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-09 16:56:35,861] INFO hunter_asset_classifier.py:357 - DeepSeek返回成功，耗时 153.7s，内容预览: {   "admin_panels": [     {       "序号": 1,       "链接": "http://op-v2.cshns.cn",       "网站标题": "运维平台",       "风险标签": "管理后台,护网行动,两高一弱",       "优先级": "P1-高危",       "攻击面": "运维管理平台可能包含系统配置、用户管理等高权限功能，存在弱口令、未授权访问入口",       "建议操作": "尝试admin/admin、root/root等常见弱口令，扫描/admin、/manage、/console、/api等路径，检查是否存在未授权
+[2026-05-09 16:56:35,870] INFO hunter_asset_classifier.py:541 - 进度: 10/10 | 写入: 7 | 异常: 0 | 最近100条均置信度: 1.00
+[2026-05-09 16:56:35,873] INFO hunter_asset_classifier.py:544 - 
+[*] AI分类完成，总耗时 154.5s | 总读取: 10 | 总写入: 7

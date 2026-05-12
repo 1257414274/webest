@@ -1,0 +1,12 @@
+[2026-05-12 10:34:04,523] INFO db_driver.py:122 - Database tables initialized.
+[2026-05-12 10:34:04,523] INFO hunter_asset_classifier.py:706 - 
+============================================================
+[2026-05-12 10:34:04,524] INFO hunter_asset_classifier.py:707 - [*] 资产智能分类服务端已启动
+[2026-05-12 10:34:04,524] INFO hunter_asset_classifier.py:708 - ============================================================
+[2026-05-12 10:34:04,530] INFO hunter_asset_classifier.py:644 - 开始批量分类，预计总条数: 3
+[2026-05-12 10:34:04,555] INFO hunter_asset_classifier.py:487 -   [批次1] 发送 3 条资产到DeepSeek...
+[2026-05-12 10:34:06,814] INFO _client.py:1025 - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+[2026-05-12 10:34:58,882] INFO hunter_asset_classifier.py:370 - DeepSeek返回成功，耗时 53.6s，内容预览: {   "admin_panels": [],   "high_risk_apps": [     {       "序号": 1,       "产品名称": "Apache Tomcat",       "厂商名称": "Apache",       "风险标签": "护网行动,两高一弱",       "优先级": "P1-高危",       "framework": "Apache Tomcat",       "reason": "命中标题Apache Tomcat/8.5.51，表明明确版本与组件信息，暴露默认页面，该中间件存在多个已披露的高危漏洞（如Ghostcat文件包含漏洞
+[2026-05-12 10:34:58,893] INFO hunter_asset_classifier.py:679 - 进度: 3/3 | 写入: 1 | 异常: 0 | 最近100条均置信度: 1.00
+[2026-05-12 10:34:58,893] INFO hunter_asset_classifier.py:682 - 
+[*] AI分类完成，总耗时 54.4s | 总读取: 3 | 总写入: 1
