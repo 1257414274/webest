@@ -33,7 +33,7 @@ RUN pip install --upgrade pip setuptools wheel gunicorn \
 
 COPY server/domain-admin-master /app/server/domain-admin-master
 COPY all4win /app/all4win
-COPY --from=frontend-builder /frontend/dist /app/server/domain-admin-master/public
+COPY --from=frontend-builder /frontend/dist /app/server/domain-admin-master/domain_admin/public
 
 WORKDIR /app/server/domain-admin-master
 
